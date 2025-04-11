@@ -78,10 +78,6 @@ main {
     line-height: 1.6;
 }
 
-#publications-content h1, #publications-content h2, #publications-content h3 {
-    color: #333;
-}
-
 /* Footer styles */
 footer {
     background-color: #333; /* Dark background */
