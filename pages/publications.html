@@ -40,7 +40,7 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // Fetch and render the Markdown file
-        fetch('../content/publications.md')
+        fetch('/content/publications.md')
             .then(response => response.text())
             .then(text => {
                 document.getElementById('publications-content').innerHTML = marked(text);
