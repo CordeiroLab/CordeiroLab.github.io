@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Publications</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/assets/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <header>
@@ -27,23 +28,31 @@
     </header>
     <main>    
         <h1> 🧠 🔬 📄 Publications</h1>
-            <div id="publications-content">
-                <!-- Markdown content will be rendered here -->
-            </div>
+        <div id="publications-content">
+            <!-- Markdown content will be rendered here -->
+        </div>
     </main>
     <footer>
         <p>This website is open-source and available on <a href="https://github.com/CordeiroLab/CordeiroLab.github.io" target="_blank">GitHub</a>.</p>
     </footer>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // Fetch and render the Markdown file
-    document.addEventListener('DOMContentLoaded', () => {
-    fetch('/content/publications.md')
-        .then(response => response.text())
-        .then(text => {
-            document.getElementById('publications-content').innerHTML = marked(text);
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('/content/publications.md')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to load publications.md');
+                    }
+                    return response.text();
+                })
+                .then(text => {
+                    document.getElementById('publications-content').innerHTML = marked(text);
+                })
+                .catch(error => {
+                    document.getElementById('publications-content').innerHTML = '<p>Error loading publications. Please try again later.</p>';
+                    console.error(error);
+                });
         });
-});
     </script>
 </body>
 </html>
