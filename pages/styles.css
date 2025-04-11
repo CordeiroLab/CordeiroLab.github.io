@@ -82,15 +82,6 @@ main {
     color: #333;
 }
 
-#publications-content a {
-    color: #0066cc;
-    text-decoration: none;
-}
-
-#publications-content a:hover {
-    text-decoration: underline;
-}
-
 /* Footer styles */
 footer {
     background-color: #333; /* Dark background */
