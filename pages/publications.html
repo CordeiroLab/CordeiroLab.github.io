@@ -27,7 +27,9 @@
     </header>
     <main>    
         <h1> 🧠 🔬 📄 Publications</h1>
-        <p> <img src="/assets/itqb_emoji.png" alt="ITQB Emoji" width="20" height="20"> Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J. and Cordeiro,T.N.* (2024) Kdsaxs: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.</a><p>
+            <div id="publications-content">
+                <!-- Markdown content will be rendered here -->
+            </div>
         <h2> </h2>
         <div>
         </div>
@@ -35,5 +37,13 @@
     <footer>
         <p>This website is open-source and available on <a href="https://github.com/CordeiroLab/CordeiroLab.github.io" target="_blank">GitHub</a>.</p>
     </footer>
+    <script>
+        // Fetch and render the Markdown file
+        fetch('/content/publications.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('publications-content').innerHTML = marked(text);
+            });
+    </script>
 </body>
 </html>
