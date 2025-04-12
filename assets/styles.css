@@ -78,3 +78,8 @@ footer {
     text-align: center; /* Center text */
     padding: 10px 0; /* Padding for spacing */
 }
+
+/* Hyperlinks */
+a {
+    color: lightblue; /* This changes the hyperlink color to light blue */
+}
