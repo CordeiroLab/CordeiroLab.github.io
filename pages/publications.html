@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Publications</title>
-    <link rel="stylesheet" href="/assets/styles.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        #publications-container {
+            padding: 1rem;
+            font-family: sans-serif;
+        }
+      </style>
+    <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
     <header>
@@ -28,11 +34,19 @@
     </header>
     <main>    
         <h1> 🧠 🔬 📄 Publications</h1>
-        <iframe src="/content/publications.md"></iframe>
+        <!-- <iframe src="/content/publications.md"></iframe> -->
+        <div id="publications-container">Loading...</div>
+        <script>
+            fetch('/content/publications.md')
+                .then(res => res.text())
+                .then(text => {
+                    document.getElementById('publications-container').innerHTML = marked.parse(text);
+                });
+        <script>
+            
     </main>
     <footer>
         <p>This website is open-source and available on <a href="https://github.com/CordeiroLab/CordeiroLab.github.io" target="_blank">GitHub</a>.</p>
     </footer>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </body>
 </html>
