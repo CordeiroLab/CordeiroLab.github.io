@@ -83,7 +83,7 @@ nav .menu li a:hover {
 /* Responsive Styles */
 @media screen and (max-width: 768px) {
     .hamburger {
-        display: none; /* Show hamburger on smaller screens */
+        display: flex; /* Show hamburger on smaller screens */
     }
     
     .menu {
