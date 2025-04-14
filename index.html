@@ -33,7 +33,7 @@
             fetch('/content/home.md')
                 .then(res => res.text())
                 .then(text => {
-                    document.getElementById('home-container').innerHTML = marked.parse(text);
+                    document.getElementById('container').innerHTML = marked.parse(text);
                 });
         </script>
         <p> 🚧 under construction </p>
