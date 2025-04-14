@@ -71,15 +71,102 @@ main {
     text-align: center;
 }
 
-#publications-container {
+/* container for .md content */
+#container {
     text-align: left;
     margin: 20px auto;
     max-width: 800px;
     line-height: 1.6;
+    font-family: Arial, sans-serif;
+    color: #333; /* Default text color */    
 }
 
-#publications-container h1, #publications-content h2, #publications-content h3 {
+
+#container h1 {
+    font-size: 2em;
+    color: #222; /* Darker color for main headings */
+    margin-bottom: 10px;
+}
+
+#container h2 {
+    font-size: 1.75em;
     color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#container h3 {
+    font-size: 1.5em;
+    color: #444;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#container p {
+    margin: 10px 0;
+    color: #555;
+}
+/* Lists .md */
+#container ul {
+    list-style-type: disc;
+    margin-left: 20px; /* Add indentation */
+    padding-left: 20px;
+}
+
+#container ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+#publications-content li {
+    margin-bottom: 5px;
+}
+
+/* Blockquotes .md */
+#container blockquote {
+    margin: 20px 0;
+    padding: 10px 20px;
+    background-color: #f9f9f9;
+    border-left: 5px solid #ccc;
+    color: #666;
+    font-style: italic;
+}
+
+/* Code blocks */
+#container pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+#container code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: monospace;
+    color: #d63384; /* Highlight code text */
+}
+
+/* Tables .md */
+#container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+#container th, #publications-content td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#container th {
+    background-color: #f2f2f2;
+    font-weight: bold;
 }
 
 /* Footer styles */
