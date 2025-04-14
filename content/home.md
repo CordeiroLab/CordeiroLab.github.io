@@ -1,0 +1,1 @@
+>*Welcome to the Cordeiro Lab — where curiosity meets cutting-edge science to uncover how disordered proteins and phase separation shape microbial life. Join us as we explore the molecular logic of pathogens and pioneer new solutions in biotechnology and antimicrobial resistance.*
