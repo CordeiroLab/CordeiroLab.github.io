@@ -71,6 +71,17 @@ main {
     text-align: center;
 }
 
+#publications-container {
+    text-align: left;
+    margin: 20px auto;
+    max-width: 800px;
+    line-height: 1.6;
+}
+
+#publications-container h1, #publications-content h2, #publications-content h3 {
+    color: #333;
+}
+
 /* Footer styles */
 footer {
     background-color: #333; /* Dark background */
