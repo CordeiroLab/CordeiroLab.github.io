@@ -43,12 +43,16 @@ header {
     display: none;
     flex-direction: column;
     cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1000; /* Ensure it appears above other elements */
 }
 
 .hamburger .bar {
     width: 25px;
     height: 3px;
-    background-color: white;
+    background-color: black; /* Change to black for visibility */
     margin: 3px 0;
     transition: all 0.3s ease;
 }
@@ -81,6 +85,10 @@ nav .menu li a:hover {
 
 /* Responsive Styles */
 @media screen and (max-width: 768px) {
+    .hamburger {
+        display: flex; /* Show hamburger on smaller screens */
+    }
+    
     .menu {
         display: none;
         flex-direction: column;
