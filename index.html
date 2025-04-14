@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cordeiro Lab Webpage</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
@@ -27,6 +28,14 @@
     </header>
     <main>
         <h1>Welcome to Our Website</h1>
+        <div id="home-container">Loading...</div>
+        <script>
+            fetch('/content/home.md')
+                .then(res => res.text())
+                .then(text => {
+                    document.getElementById('home-container').innerHTML = marked.parse(text);
+                });
+        </script>
         <p> 🚧 under construction </p>
     </main>
     <footer>
