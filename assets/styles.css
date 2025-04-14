@@ -40,7 +40,7 @@ header {
 
 /* Hamburger Menu */
 .hamburger {
-    display: none;
+    display: flex;
     flex-direction: column;
     cursor: pointer;
     position: absolute;
