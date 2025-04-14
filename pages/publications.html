@@ -29,12 +29,12 @@
     <main>    
         <h1> 🧠 🔬 📄 Publications</h1>
         <!-- <iframe src="/content/publications.md"></iframe> -->
-        <div id="publications-container">Loading...</div>
+        <div id="container">Loading...</div>
         <script>
             fetch('/content/publications.md')
                 .then(res => res.text())
                 .then(text => {
-                    document.getElementById('publications-container').innerHTML = marked.parse(text);
+                    document.getElementById('container').innerHTML = marked.parse(text);
                 });
         </script>
             
