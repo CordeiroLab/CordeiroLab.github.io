@@ -1,6 +1,8 @@
 ## 2025
 **20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J. and Cordeiro,T.N.* (2024) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
-<img src="/assets/images/pub20-thumbnail.png" alt="Publication 20" style="width: 100%; max-width: 150px; height: auto;" />
+<p align="center">
+  <img src="/assets/images/pub20-thumbnail.png" alt="Publication 20" style="width: 100%; max-width: 100%; height: auto;" />
+</p>
 ## 2024
 **19.** Vieira,M.F.M., Hernandez,G., Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 **18.** Bárria,C., Athayde,D., Hernandez,G., Fonseca,L., Casinhas,J., Cordeiro,T.N., Archer,M., Arraiano,C.M., Brito,J.A., Matos,R.G. (2024) **Structure and function of Campylobacter jejuni polynucleotide phosphorylase (PNPase): Insights into the role of this RNase in pathogenicity.** *Biochimie,* 216, 56–70. [link](https://doi.org/10.1016/j.biochi.2023.10.006)
