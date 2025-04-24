@@ -40,6 +40,10 @@
 
 **6.** Borges,P.T., Brissos,V., Hernandez,G., Masgrau,L., Lucas,M.F., Monza,E., Frazão,C., Cordeiro,T.N. *, Martins,L.O. * (2020) **Methionine-Rich Loop of Multicopper Oxidase McoA Follows Open-to-Close Transitions with a Role in Enzyme Catalysis.** *ACS Catal.*, 10, 7162–7176. [link](https://doi.org/10.1021/acscatal.0c01623)
 
+<p align="center">
+  <img src="/assets/images/pub6-thumbnail.png" alt="Publication 20" style="width: 100%; max-width: 100%; height: auto;" />
+</p>
+
 **5.** González-Magaña,A., de Opakua,A.I., Merino,N., Monteiro,H., Diercks,T., Murciano-Calles,J., Luque,I., Bernadó,P., Cordeiro,T.N., Biasio,A.D., et al. (2019) **Double Monoubiquitination Modifies the Molecular Recognition Properties of p15PAF Promoting Binding to the Reader Module of Dnmt1.** *ACS Chem. Biol.*, 14, 2315–2326.[link](https://doi.org/10.1021/acschembio.9b00679)
 
 **4.** Cordeiro,T.N., Sibille,N., Germain,P., Barthe,P., Boulahtouf,A., Allemand,F., Bailly,R., Vivat,V., Ebel,C., Barducci,A., et al. (2019) **Interplay of protein disorder in retinoic acid receptor heterodimer and its corepressor regulates gene expression.** *Structure*, 27, 1270-1285.e6. [Link](https://doi.org/10.1016/j.str.2019.05.001)
