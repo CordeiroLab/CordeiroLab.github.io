@@ -35,6 +35,7 @@
 <p align="center">
   <img src="/assets/images/pub9-thumbnail.png" alt="Publication 9" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
+
 **8.** Ruiz,L., Kaczmarska,Z., Gomes,T., Aragon,E., Torner,C., Freier,R., Baginski,B., Martin-Malpartida,P., de Martin Garrido,N., Marquez,J.A., Cordeiro, T.N., Pluta, R., Macias, M.J. (2021) **Unveiling the dimer/monomer propensities of Smad MH1-DNA complexes.** *Comput. Struct. Biotechnol. J.*, 19, 632–646. [link](https://doi.org/10.1016/j.csbj.2020.12.044)
 
 ## 2020
