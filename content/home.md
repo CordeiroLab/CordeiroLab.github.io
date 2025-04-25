@@ -2,3 +2,4 @@
 <p align="center">
   <img src="/assets/images/CLEM.JPG" alt="CLEM" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
+<p align="right"> Painting by Chrys Lem </p>
