@@ -7,7 +7,7 @@
 ## 2024
 **19.** Vieira,M.F.M., Hernandez,G., Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 <p align="center">
-  <img src="/assets/images/pub19-thumbnail.png" alt="Publication 20" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/pub19-thumbnail.png" alt="Publication 19" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
 
 **18.** Bárria,C., Athayde,D., Hernandez,G., Fonseca,L., Casinhas,J., Cordeiro,T.N., Archer,M., Arraiano,C.M., Brito,J.A., Matos,R.G. (2024) **Structure and function of Campylobacter jejuni polynucleotide phosphorylase (PNPase): Insights into the role of this RNase in pathogenicity.** *Biochimie,* 216, 56–70. [link](https://doi.org/10.1016/j.biochi.2023.10.006)
@@ -32,7 +32,9 @@
 **10.** Lazar,T., Martínez-Pérez,E., Quaglia,F., Hatos,A., Chemes,L.B., Iserte,J.A., Méndez,N.A., Garrone,N.A., Saldaño,T.E., Marchetti,J., et al. (2021) **PED in 2021: a major update of the protein ensemble database for intrinsically disordered proteins.** *Nucleic Acids Res.*, 49, D404–D411. [link](https://doi.org/10.1093/nar/gkaa1021)
 
 **9.** Gomes,T., Martin-Malpartida,P., Ruiz,L., Aragón,E., Cordeiro,T.N*. Macias,M.J.* (2021) **Conformational landscape of multidomain SMAD proteins.** *Comput. Struct. Biotechnol. J.*, 19, 5210–5224. [link](https://doi.org/10.1016/j.csbj.2021.09.009)
-
+<p align="center">
+  <img src="/assets/images/pub9-thumbnail.png" alt="Publication 9" style="width: 100%; max-width: 100%; height: auto;" />
+</p>
 **8.** Ruiz,L., Kaczmarska,Z., Gomes,T., Aragon,E., Torner,C., Freier,R., Baginski,B., Martin-Malpartida,P., de Martin Garrido,N., Marquez,J.A., Cordeiro, T.N., Pluta, R., Macias, M.J. (2021) **Unveiling the dimer/monomer propensities of Smad MH1-DNA complexes.** *Comput. Struct. Biotechnol. J.*, 19, 632–646. [link](https://doi.org/10.1016/j.csbj.2020.12.044)
 
 ## 2020
@@ -41,7 +43,7 @@
 **6.** Borges,P.T., Brissos,V., Hernandez,G., Masgrau,L., Lucas,M.F., Monza,E., Frazão,C., Cordeiro,T.N. *, Martins,L.O. * (2020) **Methionine-Rich Loop of Multicopper Oxidase McoA Follows Open-to-Close Transitions with a Role in Enzyme Catalysis.** *ACS Catal.*, 10, 7162–7176. [link](https://doi.org/10.1021/acscatal.0c01623)
 
 <p align="center">
-  <img src="/assets/images/pub6-thumbnail.png" alt="Publication 20" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/pub6-thumbnail.png" alt="Publication 6" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
 
 **5.** González-Magaña,A., de Opakua,A.I., Merino,N., Monteiro,H., Diercks,T., Murciano-Calles,J., Luque,I., Bernadó,P., Cordeiro,T.N., Biasio,A.D., et al. (2019) **Double Monoubiquitination Modifies the Molecular Recognition Properties of p15PAF Promoting Binding to the Reader Module of Dnmt1.** *ACS Chem. Biol.*, 14, 2315–2326.[link](https://doi.org/10.1021/acschembio.9b00679)
