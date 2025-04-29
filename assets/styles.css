@@ -68,7 +68,7 @@ nav .menu {
     
 }
 
-/* Styles for the menu itself */
+/* Styles for the menu1 itself */
 nav .menu1 {
     list-style: none; /* Remove bullets */
     margin: 0; /* Remove default margin */
@@ -83,6 +83,11 @@ nav .menu li {
     margin: 0 15px; /* Add spacing between menu items */
 }
 
+/* Individual menu1 items */
+nav .menu1 li {
+    margin: 0 15px; /* Add spacing between menu items */
+}
+
 /* Links in the menu */
 nav .menu li a {
     color: white; /* White text color */
@@ -90,8 +95,21 @@ nav .menu li a {
     font-weight: bold; /* Bold text */
 }
 
+/* Links in the menu1 */
+nav .menu1 li a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+}
+
 /* Hover effect for menu links */
 nav .menu li a:hover {
+    text-decoration: underline; /* Add underline on hover */
+    color: #FFD700; /* Change text color on hover (gold) */
+}
+
+/* Hover effect for menu1 links */
+nav .menu1 li a:hover {
     text-decoration: underline; /* Add underline on hover */
     color: #FFD700; /* Change text color on hover (gold) */
 }
