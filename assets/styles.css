@@ -43,10 +43,6 @@ header {
     display: none; /* Hidden on larger screen*/
     flex-direction: column;
     cursor: pointer;
-    position: absolute;
-    top: 20px;
-    left: 20px;
-    z-index: 1000; /* Ensure it appears above other elements */
 }
 
 .hamburger .bar {
