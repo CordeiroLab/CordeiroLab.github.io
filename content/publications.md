@@ -18,6 +18,9 @@
 **16.** Marini,E., Olivença,C., Ramalhete,S., Aguirre,A.M., Ingle,P., Melo,M.N., Antunes,W., Minton,N.P., Hernandez,G., Cordeiro,T.N., et al. (2023) **A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.** *PLoS Pathog.*, 19, e1011741. [link](https://doi.org/10.1371/journal.ppat.1011741)
 
 **15.** Gaspar,C.J., Gomes,T., Martins,J.C., Melo,M.N., Adrain,C., Cordeiro,T.N.* ,Domingos,P.M*. (2023) **Xport-A functions as a chaperone by stabilizing the first five transmembrane domains of rhodopsin-1.** *iScience*, 26, 108309. [link](https://doi.org/10.1016/j.isci.2023.108309)
+<p align="center">
+  <img src="/assets/images/pub15-thumbnail.png" alt="Publication 15" style="width: 100%; max-width: 100%; height: auto;" />
+</p>
 
 ## 2022
 **14.** Pinto,D., Gonçalo,R., Louro,M., Silva,M.S., Hernandez,G., Cordeiro,T.N., Cordeiro,C. and São-José,C. (2022) **On the Occurrence and Multimerization of Two-Polypeptide Phage Endolysins Encoded in Single Genes.** *Microbiol. Spectr.*, 10, e0103722. [link](https://doi.org/10.1128/spectrum.01037-22)
