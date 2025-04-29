@@ -45,7 +45,6 @@ header {
 .hamburger {
     display: none; /* Hidden on larger screen*/
     flex-direction: column;
-    gap: 5px;
     cursor: pointer;
 }
 
