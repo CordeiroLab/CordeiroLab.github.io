@@ -40,8 +40,8 @@
     <main>
         <h1>Contact Us</h1>
         <p>If you have any questions, feel free to reach out to us:</p>
-        <p> 📧 Email: <a href="mailto:tiago.cordeiro@itqb.unl.pt">tiago.cordeiro@itqb.unl.pt</a><p>
-        <p> <img src="/assets/itqb_emoji.png" alt="ITQB Emoji" width="20" height="20"> 🧬🤝🌐 Institute: <a href="https://www.itqb.unl.pt" target="_blank">www.itqb.unl.pt</a><p>
+        <p> 📧 Email: <a href="mailto:tiago.cordeiro@itqb.unl.pt">tiago.cordeiro@itqb.unl.pt</a></p>
+        <p> <img src="/assets/itqb_emoji.png" alt="ITQB Emoji" width="20" height="20"> 🧬🤝🌐 Institute: <a href="https://www.itqb.unl.pt" target="_blank">www.itqb.unl.pt</a></p>
         <h2>Our Location</h2>
         <div>
             <iframe
@@ -53,14 +53,13 @@
                 loading="lazy">
             </iframe>
             <div id="container">Loading...</div>
-                <script>
-                    fetch('/content/location.md')
-                        .then(res => res.text())
-                        .then(text => {
-                            document.getElementById('container').innerHTML = marked.parse(text);
-                        });
-                </script>
-            <div>
+            <script>
+                fetch('/content/location.md')
+                    .then(res => res.text())
+                    .then(text => {
+                        document.getElementById('container').innerHTML = marked.parse(text);
+                    });
+            </script>
             <p align="center">
               <img src="/assets/images/Itqb_photo.jpeg" alt="ITQB Building" style="width: 100%; max-width: 100%; height: auto;" />
             </p>
@@ -73,7 +72,7 @@
                 <li><a href="/index.html">Home</a></li>
                 <li><a href="publications.html">Publications</a></li>
             </ul>
-        <nav>
+        </nav>
         <p>This website is open-source and available on <a href="https://github.com/CordeiroLab/CordeiroLab.github.io" target="_blank">GitHub</a>.</p>
     </footer>
 </body>
