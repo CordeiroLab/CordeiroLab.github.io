@@ -51,6 +51,15 @@
                 allowfullscreen=""
                 loading="lazy">
             </iframe>
+            <div id="container">Loading...</div>
+                <script>
+                    fetch('/content/location.md')
+                        .then(res => res.text())
+                        .then(text => {
+                            document.getElementById('container').innerHTML = marked.parse(text);
+                        });
+                </script>
+            <div>
             <p align="center">
               <img src="/assets/images/Itqb_photo.jpeg" alt="ITQB Building" style="width: 100%; max-width: 100%; height: auto;" />
             </p>
