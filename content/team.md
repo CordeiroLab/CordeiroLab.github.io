@@ -72,10 +72,10 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/maria.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('assets/images/team/cordeiro.jpg');"></div>
     <div class="flip-card-back">
-      <div class="name">Maria L. Martins</div>
-      <div>PhD Student</div>
+      <div class="name">Tiago Cordeiro</div>
+      <div>PI</div>
     </div>
   </div>
 </label>
@@ -83,10 +83,10 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/cordeiro.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('assets/images/team/maria.jpg');"></div>
     <div class="flip-card-back">
-      <div class="name">Tiago Cordeiro</div>
-      <div>PI</div>
+      <div class="name">Maria L. Martins</div>
+      <div>PhD Student</div>
     </div>
   </div>
 </label>
