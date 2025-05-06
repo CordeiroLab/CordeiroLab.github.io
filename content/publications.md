@@ -1,4 +1,4 @@
->[more on Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)
+> <img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="20" height="20"> [more on Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)
 ## 2025
 **20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J. and Cordeiro,T.N.* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
 <p align="center">
