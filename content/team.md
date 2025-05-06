@@ -72,15 +72,6 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/cordeiro.jpg');"></div>
-    <div class="flip-card-back">
-      <div class="name">Tiago Cordeiro</div>
-      <div>Principal Investigator</div>
-    <div>
-  </div>
-<label class="flip-card">
-  <input type="checkbox" />
-  <div class="flip-card-inner">
     <div class="flip-card-front" style="background-image: url('assets/images/team/maria.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Maria L. Martins</div>
@@ -130,7 +121,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/gomes.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('assets/images/team/tiago.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Tiago Gomes</div>
       <div>Postdoc</div>
@@ -227,4 +218,5 @@
 </label>
 
 </div>
+
 ---
