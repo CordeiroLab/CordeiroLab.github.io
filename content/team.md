@@ -83,6 +83,17 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
+    <div class="flip-card-front" style="background-image: url('assets/images/team/cordeiro.jpg');"></div>
+    <div class="flip-card-back">
+      <div class="name">Tiago Cordeiro</div>
+      <div>PI</div>
+    </div>
+  </div>
+</label>
+
+<label class="flip-card">
+  <input type="checkbox" />
+  <div class="flip-card-inner">
     <div class="flip-card-front" style="background-image: url('assets/images/team/nuno.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Nuno Fernandes</div>
