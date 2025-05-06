@@ -1,4 +1,3 @@
-## Members
 # Meet the Team
 
 <style>
@@ -77,19 +76,8 @@
     <div class="flip-card-back">
       <div class="name">Tiago Cordeiro</div>
       <div>Principal Investigator</div>
-      <div>
-    <!-- Social Links -->
     <div>
-      <a href="https://www.linkedin.com/in/tiagoncordeiro/" target="_blank">
-        <img src="/assets/icons/linkedin-icon.png" alt="LinkedIn" style="width: 25px; height: auto; margin-right: 10px;">
-      </a>
-      <a href="https://github.com/CordeiroLab" target="_blank">
-        <img src="/assets/icons/github-icon.png" alt="GitHub" style="width: 25px; height: auto; margin-right: 10px;">
-      </a>
-    </div>
-    </div>
   </div>
-  
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
