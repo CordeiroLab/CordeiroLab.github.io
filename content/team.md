@@ -72,7 +72,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/cordeiro.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/cordeiro.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Tiago Cordeiro</div>
       <div>PI</div>
@@ -83,7 +83,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/maria.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/maria.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Maria L. Martins</div>
       <div>PhD Student</div>
@@ -94,7 +94,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/nuno.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/nuno.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Nuno Fernandes</div>
       <div>MSc Student</div>
@@ -105,7 +105,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/jose.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/jose.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">José Quintal</div>
       <div>MSc Student</div>
@@ -116,7 +116,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/marco.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/marco.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Marco Saraiva</div>
       <div>PostDoc</div>
@@ -132,7 +132,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/gomes.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/gomes.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Tiago Gomes</div>
       <div>Postdoc</div>
@@ -143,7 +143,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/nacho.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/nacho.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Ignacio Amusategui</div>
       <div>Post-Master Research fellow</div>
@@ -154,7 +154,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/andre.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/andre.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">André Meireis</div>
       <div>Post-Master Research fellow</div>
@@ -165,7 +165,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/laura.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/laura.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Laura J. Castro</div>
       <div>Post-Master Research fellow</div>
@@ -176,7 +176,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/guillem.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/guillem.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Guillem Hernandez</div>
       <div>PhD Student</div>
@@ -187,7 +187,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/marta.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/marta.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Marta Vieira</div>
       <div>PhD Student</div>
@@ -198,7 +198,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/joao.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/joao.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">João Lopes</div>
       <div>BsC Student</div>
@@ -209,7 +209,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/tiagov.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/tiagov.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Tiago Veloso</div>
       <div>MSc/BsC Student</div>
@@ -220,7 +220,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/hugo.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/hugo.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Hugo Monteiro</div>
       <div>Post-Master Research fellow</div>
