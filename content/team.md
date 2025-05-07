@@ -228,6 +228,17 @@
   </div>
 </label>
 
+<label class="flip-card">
+  <input type="checkbox" />
+  <div class="flip-card-inner">
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/margarida.jpg');"></div>
+    <div class="flip-card-back">
+      <div class="name">Margarita Pataco</div>
+      <div>Intern</div>
+    </div>
+  </div>
+</label>
+
 </div>
 
 ---
