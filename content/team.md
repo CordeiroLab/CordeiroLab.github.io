@@ -132,7 +132,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/tiago.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('assets/images/team/gomes.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Tiago Gomes</div>
       <div>Postdoc</div>
@@ -143,7 +143,7 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('assets/images/team/ignacio.jpg');"></div>
+    <div class="flip-card-front" style="background-image: url('assets/images/team/nacho.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Ignacio Amusategui</div>
       <div>Post-Master Research fellow</div>
