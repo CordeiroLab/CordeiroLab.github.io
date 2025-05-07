@@ -1,4 +1,4 @@
-# Meet the Team
+# Meet the Cordeiro Lab Team
 
 <style>
 .team-grid {
@@ -65,6 +65,11 @@
   margin-bottom: 0.5em;
 }
 </style>
+
+
+>Rooted in diverse backgrounds spanning Biochemistry, Chemistry, and Biomedicine, our team brings together bright minds exploring the frontiers of molecular biosciences. Our members are enrolled in cutting-edge MSc and PhD programs, with research that bridges molecular structure, microbial life, and biotechnology.
+
+**Curious about who we are?** Click on each photo to discover the people powering the science at Cordeiro Lab.
 
 ## Current Members
 <div class="team-grid">
