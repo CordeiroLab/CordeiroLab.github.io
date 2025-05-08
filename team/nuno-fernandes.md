@@ -5,7 +5,7 @@ title: Nuno P. Fernandes
 
 # Nuno P. Fernades
 
-> MSc Student in Computational Biology & Bioinformatics [(**MCBBI**)<img src="/assets/images/mcbbi.png" alt="mcbbi" width="80" height="20">](http://masters.unl.pt/computationalbiology/)
+> MSc Student in Computational Biology & Bioinformatics [<img src="/assets/images/mcbbi.png" alt="mcbbi" width="80" height="20">](http://masters.unl.pt/computationalbiology/)
 
 ![Nuno P. Fernandes](/assets/images/team/nuno.jpg){: width="50%" style="border-radius: 10px;" }
 
