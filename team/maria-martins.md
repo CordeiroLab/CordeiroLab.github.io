@@ -5,7 +5,7 @@ title: Maria L. Martins
 
 # Maria L. Martins
 
-> PhD Student in Molecular Biosciences [(**MolBioS**)<img src="/assets/images/molbios.jpg" alt="molbios" width="20" height="20">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
+> PhD Student in Molecular Biosciences [<img src="/assets/images/molbios.jpg" alt="molbios" width="40" height="40">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
 
 ![Maria L. Martins](/assets/images/team/maria.jpg){: width="50%" style="border-radius: 10px;" }
 
