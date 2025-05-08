@@ -22,6 +22,8 @@ Nuno P. Fernandes - During my Biochemistry bachelor's at the University of Lisbo
 
 ## Links
 - <img src="/assets/images/icons/github_icon.png" alt="linkedin" width="20" height="20"> [GitHub](https://github.com/npfernandes)
+- <img src="/assets/images/icons/orcid_icon.png" alt="orcid" width="20" height="20"> [ORCID](https://orcid.org/0009-0003-4583-288X)
+
 
 ---
 
