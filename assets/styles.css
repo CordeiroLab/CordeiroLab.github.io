@@ -259,3 +259,48 @@ footer {
 a {
     color: lightblue; /* This changes the hyperlink color to light blue */
 }
+
+.markdown-body {
+  font-family: "Segoe UI", Roboto, Helvetica, sans-serif;
+  color: #2b2b2b;
+  line-height: 1.7;
+  padding: 1rem;
+}
+
+.markdown-body h1, 
+.markdown-body h2, 
+.markdown-body h3 {
+  color: #004d40;
+  margin-top: 1.5rem;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.markdown-body a {
+  color: #00695c;
+  text-decoration: none;
+}
+
+.markdown-body a:hover {
+  text-decoration: underline;
+}
+
+.markdown-body blockquote {
+  border-left: 4px solid #80cbc4;
+  padding-left: 1rem;
+  color: #555;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+.markdown-body code {
+  background-color: #f1f1f1;
+  padding: 0.2rem 0.4rem;
+  font-family: monospace;
+  border-radius: 4px;
+}
+
