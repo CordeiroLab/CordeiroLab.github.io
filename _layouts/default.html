@@ -6,14 +6,14 @@
     <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="icon" href="/assets/images/icons/cordeiro_lab_icon.png" type="image/png">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <link rel="stylesheet" href="/assets/styles.css">
+    <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
 </head>
 <body>
     <header>
         <img src="/assets/images/Lab_Logo_2.png" alt="Lab Logo" class="logo">
     </header>
     
-<main class="container">
+<main class="markdown-body">
   {{ content }}
 </main>
   
