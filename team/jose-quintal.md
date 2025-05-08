@@ -5,7 +5,7 @@ title: José Quintal
 
 # José Quintal
 
-> MSc Student in Biochemistry and Biomedicine [<img src="/assets/images/ciencias_icon.png" alt="mcbbi" width="20" height="20">](https://mbb.edu.ciencias.ulisboa.pt/index.html#content4-3)
+> MSc Student in Biochemistry and Biomedicine [<img src="/assets/images/ciencias_icon.png" alt="fcul" width="20" height="20">](https://mbb.edu.ciencias.ulisboa.pt/index.html#content4-3)
 
 ![José Quintal](/assets/images/team/jose.jpg){: width="50%" style="border-radius: 10px;" }
 
