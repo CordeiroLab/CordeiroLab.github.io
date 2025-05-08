@@ -20,7 +20,7 @@ title: Maria L. Martins
 - Enzymatic Catalysis
 
 ## Links
-- <img src="/assets/images/icons/linkedin_icon.svg" alt="gscholar" width="20" height="20"> [LinkedIn](linkedin.com/in/maria-lança-martins-5b9243262)
+- <img src="/assets/images/icons/linkedin_icon.png" alt="gscholar" width="20" height="20"> [LinkedIn](linkedin.com/in/maria-lança-martins-5b9243262)
 
 ---
 
