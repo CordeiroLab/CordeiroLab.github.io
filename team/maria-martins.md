@@ -21,7 +21,7 @@ title: Maria L. Martins
 - Science Communication
 
 ## Links
-- <img src="/assets/images/icons/linkedin_icon.png" alt="gscholar" width="20" height="20"> [LinkedIn](linkedin.com/in/maria-lança-martins-5b9243262)
+- <img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/maria-lança-martins-5b9243262)
 
 ---
 
