@@ -92,6 +92,7 @@
     <div class="flip-card-back">
       <div class="name">Maria L. Martins</div>
       <div>PhD student</div>
+      <a href="/team/maria-martins.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -103,6 +104,7 @@
     <div class="flip-card-back">
       <div class="name">Nuno Fernandes</div>
       <div>MSc student</div>
+      <a href="/team/nuno-fernandes.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -114,6 +116,7 @@
     <div class="flip-card-back">
       <div class="name">José Quintal</div>
       <div>MSc student</div>
+      <a href="/team/jose-quintal.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -125,6 +128,7 @@
     <div class="flip-card-back">
       <div class="name">Marco Saraiva</div>
       <div>PostDoc </div>
+      <a href="/team/marco-saraiva.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
