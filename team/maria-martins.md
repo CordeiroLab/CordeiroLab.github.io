@@ -7,7 +7,7 @@ title: Maria L. Martins
 
 _PhD Student | Cordeiro Lab_
 
-![Maria L. Martins](/assets/images/team/maria.jpg){: width="500%" style="border-radius: 10px;" }
+![Maria L. Martins](/assets/images/team/maria.jpg){: width="50%" style="border-radius: 10px;" }
 
 ## Biography
 
