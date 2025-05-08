@@ -21,7 +21,7 @@ José Alexandre Quintal - I am passionate about the interface between Biology an
 
 ## Links
 - <img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20"> [Linkedin](https://www.linkedin.com/in/josé-alexandre-quintal-193b95243)
-- <img src="/assets/images/icons/orcid_icon.png" alt="orcid" width="20" height="20"> [ORCID](https://orcid.org/0009-0005-0820-4176))
+- <img src="/assets/images/icons/orcid_icon.png" alt="orcid" width="20" height="20"> [ORCID](https://orcid.org/0009-0005-0820-4176)
 
 
 ---
