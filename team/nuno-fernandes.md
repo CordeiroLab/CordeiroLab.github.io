@@ -16,7 +16,7 @@ Nuno P. Fernandes - During my Biochemistry bachelor's at the University of Lisbo
 ## Research Interests
 
 - Computation Biology
-- Intrinsically Disorder Proteins
+- Intrinsically Disordered Proteins **(IDPs)**
 - Conformational Sampling
 - Open Science
 
