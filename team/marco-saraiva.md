@@ -15,7 +15,7 @@ Marco Saraiva - Currently, I am the PI of an **[exploratory project](https://doi
 ## Research Interests
 
 - Biophysical characterization
-- Self-assembly & aggregation
+- Self-assembly & protein aggregation
 - Physical Chemistry
 - Teaching
 
