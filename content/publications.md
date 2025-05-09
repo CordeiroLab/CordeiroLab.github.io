@@ -1,9 +1,9 @@
-> <img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="20" height="20"> [more on Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)
+> <img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="20" height="20"> **[more on Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)**
 ## 2025
 **20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J. and Cordeiro,T.N.* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
 <p align="center">
   <a href="https://doi.org/10.1016/j.jmb.2025.169103" >
-  <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="Publication 20" style="width: 80%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="Publication 20" style="width: 90%; max-width: 100%; height: auto;" />
   </a>  
 </p>
 
@@ -11,7 +11,7 @@
 **19.** Vieira,M.F.M., Hernandez,G., Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 <p align="center">
   <a href="https://doi.org/10.1038/s42003-024-05856-9" >
-  <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Publication 19" style="width: 80%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Publication 19" style="width: 90%; max-width: 100%; height: auto;" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 **15.** Gaspar,C.J., Gomes,T., Martins,J.C., Melo,M.N., Adrain,C., Cordeiro,T.N.* ,Domingos,P.M*. (2023) **Xport-A functions as a chaperone by stabilizing the first five transmembrane domains of rhodopsin-1.** *iScience*, 26, 108309. [link](https://doi.org/10.1016/j.isci.2023.108309)
 <p align="center">
   <a href="https://doi.org/10.1016/j.isci.2023.108309" >
-  <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Publication 15" style="width: 80%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Publication 15" style="width: 90%; height: auto;" />
   </a>
 </p>
 
@@ -43,8 +43,8 @@
 
 **9.** Gomes,T., Martin-Malpartida,P., Ruiz,L., Aragón,E., Cordeiro,T.N*. Macias,M.J.* (2021) **Conformational landscape of multidomain SMAD proteins.** *Comput. Struct. Biotechnol. J.*, 19, 5210–5224. [link](https://doi.org/10.1016/j.csbj.2021.09.009)
 <p align="center">
-  <a href="https://doi.org/10.1016/j.csbj.2021.09.009"
-  <img src="/assets/images/thumbnail/pub9-thumbnail.png" alt="Publication 9" style="width: 80%; max-width: 100%; height: auto;" />
+  <a href="https://doi.org/10.1016/j.csbj.2021.09.009" >
+  <img src="/assets/images/thumbnail/pub9-thumbnail.png" alt="Publication 9" style="width: 90%; max-width: 100%; height: auto;" />
   </a>
 </p>
 
