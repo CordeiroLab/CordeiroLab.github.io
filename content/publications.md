@@ -2,13 +2,13 @@
 ## 2025
 **20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J. and Cordeiro,T.N.* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
 <p align="center">
-  <img src="/assets/images/pub20-thumbnail.png" alt="Publication 20" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="Publication 20" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
 
 ## 2024
 **19.** Vieira,M.F.M., Hernandez,G., Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 <p align="center">
-  <img src="/assets/images/pub19-thumbnail.png" alt="Publication 19" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Publication 19" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
 
 **18.** Bárria,C., Athayde,D., Hernandez,G., Fonseca,L., Casinhas,J., Cordeiro,T.N., Archer,M., Arraiano,C.M., Brito,J.A., Matos,R.G. (2024) **Structure and function of Campylobacter jejuni polynucleotide phosphorylase (PNPase): Insights into the role of this RNase in pathogenicity.** *Biochimie,* 216, 56–70. [link](https://doi.org/10.1016/j.biochi.2023.10.006)
@@ -20,7 +20,7 @@
 
 **15.** Gaspar,C.J., Gomes,T., Martins,J.C., Melo,M.N., Adrain,C., Cordeiro,T.N.* ,Domingos,P.M*. (2023) **Xport-A functions as a chaperone by stabilizing the first five transmembrane domains of rhodopsin-1.** *iScience*, 26, 108309. [link](https://doi.org/10.1016/j.isci.2023.108309)
 <p align="center">
-  <img src="/assets/images/pub15-thumbnail.png" alt="Publication 15" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Publication 15" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
 
 ## 2022
@@ -37,7 +37,7 @@
 
 **9.** Gomes,T., Martin-Malpartida,P., Ruiz,L., Aragón,E., Cordeiro,T.N*. Macias,M.J.* (2021) **Conformational landscape of multidomain SMAD proteins.** *Comput. Struct. Biotechnol. J.*, 19, 5210–5224. [link](https://doi.org/10.1016/j.csbj.2021.09.009)
 <p align="center">
-  <img src="/assets/images/pub9-thumbnail.png" alt="Publication 9" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub9-thumbnail.png" alt="Publication 9" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
 
 **8.** Ruiz,L., Kaczmarska,Z., Gomes,T., Aragon,E., Torner,C., Freier,R., Baginski,B., Martin-Malpartida,P., de Martin Garrido,N., Marquez,J.A., Cordeiro, T.N., Pluta, R., Macias, M.J. (2021) **Unveiling the dimer/monomer propensities of Smad MH1-DNA complexes.** *Comput. Struct. Biotechnol. J.*, 19, 632–646. [link](https://doi.org/10.1016/j.csbj.2020.12.044)
@@ -48,7 +48,7 @@
 **6.** Borges,P.T., Brissos,V., Hernandez,G., Masgrau,L., Lucas,M.F., Monza,E., Frazão,C., Cordeiro,T.N. *, Martins,L.O. * (2020) **Methionine-Rich Loop of Multicopper Oxidase McoA Follows Open-to-Close Transitions with a Role in Enzyme Catalysis.** *ACS Catal.*, 10, 7162–7176. [link](https://doi.org/10.1021/acscatal.0c01623)
 
 <p align="center">
-  <img src="/assets/images/pub6-thumbnail.png" alt="Publication 6" style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub6-thumbnail.png" alt="Publication 6" style="width: 100%; max-width: 100%; height: auto;" />
 </p>
 
 ## 2019
