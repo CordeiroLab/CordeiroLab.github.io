@@ -57,9 +57,22 @@
             <!-- Anti-Spam Measures -->
             <input type="hidden" name="_captcha" value="false">
             <input type="text" name="_honeypot" style="display:none">
+            <!-- Time-based Validation -->
+            <input type="hidden" name="_timestamp" id="_timestamp">
+            <!-- JavaScript Token -->
+            <input type="hidden" name="_token" id="_token">
 
             <button type="submit">Send Message</button>
         </form>
+
+        <script>
+            // Add timestamp to the form
+            document.getElementById('_timestamp').value = Date.now();
+
+            // Add a JavaScript-generated token for the form
+            const token = btoa(Date.now() + Math.random());
+            document.getElementById('_token').value = token;
+        </script>
         
         <h2>Our Location</h2>
         <div>
