@@ -12,6 +12,7 @@
   background: transparent;
   width: 180px;
   height: 260px;
+  gap: 20px;
   perspective: 1000px;
   cursor: pointer;
 }
