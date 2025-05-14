@@ -39,6 +39,27 @@
         <p>If you have any questions, feel free to reach out to us:</p>
         <p> 📧 Email: <a href="mailto:tiago.cordeiro@itqb.unl.pt">tiago.cordeiro@itqb.unl.pt</a></p>
         <p> <img src="/assets/emojis/itqb_emoji.png" alt="ITQB Emoji" width="20" height="20"> 🧬🤝🌐 Institute: <a href="https://www.itqb.unl.pt" target="_blank">www.itqb.unl.pt</a></p>
+
+        <h2>Send Us a Message</h2>
+        <form action="https://formsubmit.co/YOUR_EMAIL_ADDRESS" method="POST">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" placeholder="Your Name" required><br><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" placeholder="Your Email" required><br><br>
+
+            <label for="subject">Subject:</label><br>
+            <input type="text" id="subject" name="subject" placeholder="Subject" required><br><br>
+
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea><br><br>
+
+            <!-- Anti-Spam Measures -->
+            <input type="hidden" name="_captcha" value="false">
+            <input type="text" name="_honeypot" style="display:none">
+
+            <button type="submit">Send Message</button>
+        </form>
         
         <h2>Our Location</h2>
         <div>
