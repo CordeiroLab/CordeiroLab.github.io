@@ -5,7 +5,7 @@ title: Guillem Hernandez
 
 # Guillem Hernandez
 
-> Former PhD Student in Molecular Biosciences [<img src="/assets/images/molbios.jpg" alt="molbios" width="40" height="40">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
+> PhD Student in Molecular Biosciences [<img src="/assets/images/molbios.jpg" alt="molbios" width="40" height="40">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
 
 ![Maria L. Martins](/assets/images/team/guillem.jpg){: width="50%" style="border-radius: 10px;" }
 
@@ -39,8 +39,8 @@ Sales Manager at [Kuhner Shaker](https://kuhner.com)
 
 
 ## Links
-- <img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/ghernandezgras)
+>[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/ghernandezgras)
 
 ---
 
-[← Back to Team](/pages/team.html)
+**[← Back to Team](/pages/team.html)**
