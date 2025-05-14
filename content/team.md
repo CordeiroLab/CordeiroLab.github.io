@@ -189,6 +189,7 @@
     <div class="flip-card-back">
       <div class="name">Guillem Hernandez</div>
       <div>PhD student</div>
+      <a href="/team/guillem-hernandez.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
