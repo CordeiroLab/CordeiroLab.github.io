@@ -18,8 +18,8 @@
 
 .flip-card-inner {
   position: relative;
-  width: 180px;
-  height: 260px;
+  width: 100%;
+  height: 100%;
   transition: transform 0.6s;
   transform-style: preserve-3d;
 }
@@ -33,6 +33,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
+  box-sizing: border-box; /* ← ensures padding doesn't increase height */
   backface-visibility: hidden;
   border-radius: 10px;
   overflow: hidden;
@@ -52,6 +53,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  overflow-y: auto; /* if content overflows, make it scrollable */
   padding: 1em;
   text-align: center;
 }
