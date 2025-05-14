@@ -276,7 +276,7 @@ a {
     box-sizing: border-box;
   }
   button {
-    background-color: #007bff;
+    background-color: lightblue;
     color: white;
     border: none;
     cursor: pointer;
