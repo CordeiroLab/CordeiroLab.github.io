@@ -22,11 +22,11 @@ To date, I’ve authored over **30 peer-reviewed publications**, secured nationa
 - Learning 
 
 ## Links
-- <img src="/assets/images/icons/github_icon.png" alt="linkedin" width="20" height="20"> [GitHub](https://github.com/CordeiroLab)
-- <img src="/assets/images/icons/orcid_icon.png" alt="orcid" width="20" height="20"> [ORCID](https://orcid.org/0000-0003-2663-3220)
-- <img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/tiagoncordeiro)
-- <img src="/assets/images/icons/gscholar_icon.svg" alt="linkedin" width="20" height="20"> [Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)
+- <img src="/assets/images/icons/github_icon.png" alt="linkedin" width="20" height="20"> **[GitHub](https://github.com/CordeiroLab)**
+- <img src="/assets/images/icons/orcid_icon.png" alt="orcid" width="20" height="20"> **[ORCID](https://orcid.org/0000-0003-2663-3220)**
+- <img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20"> **[LinkedIn](https://www.linkedin.com/in/tiagoncordeiro)**
+- <img src="/assets/images/icons/gscholar_icon.svg" alt="linkedin" width="20" height="20"> **[Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)**
 
 ---
 
-[← Back to Team](/pages/team.html)
+**[← Back to Team]**(/pages/team.html)
