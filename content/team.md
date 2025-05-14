@@ -10,7 +10,7 @@
 
 .flip-card {
   background: transparent;
-  width: 200px;
+  width: 180px;
   height: 260px;
   perspective: 1000px;
   cursor: pointer;
