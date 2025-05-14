@@ -12,15 +12,14 @@
   background: transparent;
   width: 180px;
   height: 260px;
-  gap: 20px;
   perspective: 1000px;
   cursor: pointer;
 }
 
 .flip-card-inner {
   position: relative;
-  width: 100%;
-  height: 100%;
+  width: 180px;
+  height: 260px;
   transition: transform 0.6s;
   transform-style: preserve-3d;
 }
