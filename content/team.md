@@ -81,6 +81,7 @@
     <div class="flip-card-back">
       <div class="name">Tiago Cordeiro</div>
       <div>PI</div>
+      <a href="/team/tiago-cordeiro.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
