@@ -4,9 +4,3 @@
   <img src="/assets/images/CLEM.JPG" alt="CLEM" style="width: 100%; max-width: 100%; height: auto;" />
 
 >Painting by Chrys Lem
-
-
-## Image proteins that never settle in one shape. Instead, they wiggle around and adapt like microscopic spaghetti. 
-## These are IDPs, under-represented "heroes" of Biology that drive critical cellular processes, from gene regulation to disease defence. 
-## For decades, science overlooked IDPS, believing only structured ones are functional. But now, we know that disorder is like a "superpower". Their plasticity renders the ability to interact with multiple partners (HUBs). 
-## We work to unveil how their superpowers underlie biology and health—finding ways to target these undruggable targets.*
