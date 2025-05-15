@@ -177,7 +177,7 @@
   <div class="flip-card-inner">
     <div class="flip-card-front" style="background-image: url('/assets/images/team/margarida.jpg');"></div>
     <div class="flip-card-back">
-      <div class="name">Margarita Pataco</div>
+      <div class="name">Margarida Pataco</div>
       <div>Intern</div>
     </div>
   </div>
