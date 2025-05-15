@@ -185,4 +185,17 @@
 
 </div>
 
+## Research subject
+
+<label class="flip-card">
+  <input type="checkbox" />
+  <div class="flip-card-inner">
+    <div class="flip-card-front" style="background-image: url('/assets/images/IDP.png');"></div>
+    <div class="flip-card-back">
+      <div class="name">IDP</div>
+      <div>Research subject 1</div>
+      <a href="/team/IDP.html" target="_blank" class="btn">Read more</a>
+    </div>
+  </div>
+</label>
 ---
