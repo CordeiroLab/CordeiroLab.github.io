@@ -195,7 +195,7 @@
     <div class="flip-card-back">
       <div class="name">IDP</div>
       <div>Research subject 1</div>
-      <a href="/team/ipd.html" target="_blank" class="btn">Read more</a>
+      <a href="/team/idp.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
