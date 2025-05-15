@@ -20,6 +20,7 @@ title: Intrinsically Disorder Protein
 - Function through disorder 
 - Associated with disease
 - Difficult to study using traditional structural biology  & AI tool
+  
 ---
 
 **[← Back to Team](/pages/team.html)**
