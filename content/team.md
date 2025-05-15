@@ -186,7 +186,8 @@
 </div>
 
 ## Research subject
-
+<div class="team-grid">
+  
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
@@ -198,4 +199,6 @@
     </div>
   </div>
 </label>
+
+</div>
 ---
