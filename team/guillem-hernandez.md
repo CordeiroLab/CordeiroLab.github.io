@@ -40,6 +40,7 @@ Sales Manager at [Kuhner Shaker](https://kuhner.com)
 
 ## Links
 >[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/ghernandezgras)
+>[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/portal/611C-6209-D3CB)
 
 ---
 
