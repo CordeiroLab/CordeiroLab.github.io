@@ -25,7 +25,8 @@ To date, I’ve authored **over 30 peer-reviewed publications**, secured nationa
 > [<img src="/assets/images/icons/github_icon.png" alt="github" width="20" height="20">](https://github.com/CordeiroLab)
 > [<img src="/assets/images/icons/orcid_icon.png" alt="orcid" width="20" height="20">](https://orcid.org/0000-0003-2663-3220)
 > [<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/tiagoncordeiro)
-> [<img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="20" height="20">](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)
+> [<img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="0" height="20">](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)
+>  [<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt//en/991A-E0D1-F2D2)
 
 ---
 
