@@ -21,7 +21,8 @@ title: Maria L. Martins
 - Science Communication
 
 ## Links
-- <img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/maria-lança-martins-5b9243262)
+> [<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/maria-lança-martins-5b9243262)
+> [<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="linkedin" width="40" height="20">](https://www.cienciavitae.pt/portal/791A-9106-7BCD) 
 
 ---
 
