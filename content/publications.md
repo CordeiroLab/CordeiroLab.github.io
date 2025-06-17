@@ -1,6 +1,13 @@
 > <img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="20" height="20"> **[more on Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)**
 ## 2025
-**20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J. and Cordeiro,T.N.* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
+**21.** Hernandez G., Martins M.L., Fernandes N.P., Veloso T., Lopes J., Gomes, T.*, Cordeiro,T.N.* (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
+<p align="center">
+  <a href="https://doi.org/10.1093/nar/gkaf502" >
+  <img src="/assets/images/thumbnail/pub21-thumbnail.png" alt="Publication 20" style="width: 90%; max-width: 100%; height: auto;" />
+  </a>  
+</p>
+
+**20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J., Cordeiro,T.N.* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
 <p align="center">
   <a href="https://doi.org/10.1016/j.jmb.2025.169103" >
   <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="Publication 20" style="width: 90%; max-width: 100%; height: auto;" />
