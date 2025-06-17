@@ -3,14 +3,14 @@
 **21.** Hernandez G., Martins M.L., Fernandes N.P., Veloso T., Lopes J., Gomes, T.*, Cordeiro,T.N.* (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
 <p align="center">
   <a href="https://doi.org/10.1093/nar/gkaf502" >
-  <img src="/assets/images/thumbnail/pub21-thumbnail.png" alt="Publication 20" style="width: 90%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub21-thumbnail.png" alt="N-Protein" style="width: 90%; max-width: 100%; height: auto;" />
   </a>  
 </p>
 
 **20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J., Cordeiro,T.N.* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
 <p align="center">
   <a href="https://doi.org/10.1016/j.jmb.2025.169103" >
-  <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="Publication 20" style="width: 90%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="KdSAXS" style="width: 90%; max-width: 100%; height: auto;" />
   </a>  
 </p>
 
@@ -18,7 +18,7 @@
 **19.** Vieira,M.F.M., Hernandez,G., Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 <p align="center">
   <a href="https://doi.org/10.1038/s42003-024-05856-9" >
-  <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Publication 19" style="width: 90%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Tir" style="width: 90%; max-width: 100%; height: auto;" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 **15.** Gaspar,C.J., Gomes,T., Martins,J.C., Melo,M.N., Adrain,C., Cordeiro,T.N.* ,Domingos,P.M*. (2023) **Xport-A functions as a chaperone by stabilizing the first five transmembrane domains of rhodopsin-1.** *iScience*, 26, 108309. [link](https://doi.org/10.1016/j.isci.2023.108309)
 <p align="center">
   <a href="https://doi.org/10.1016/j.isci.2023.108309" >
-  <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Publication 15" style="width: 90%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Xport-A" style="width: 90%; height: auto;" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 **6.** Borges,P.T., Brissos,V., Hernandez,G., Masgrau,L., Lucas,M.F., Monza,E., Frazão,C., Cordeiro,T.N. *, Martins,L.O. * (2020) **Methionine-Rich Loop of Multicopper Oxidase McoA Follows Open-to-Close Transitions with a Role in Enzyme Catalysis.** *ACS Catal.*, 10, 7162–7176. [link](https://doi.org/10.1021/acscatal.0c01623)
 <p align="center">
   <a href="https://doi.org/10.1021/acscatal.0c01623" >
-  <img src="/assets/images/thumbnail/pub6-thumbnail.png" alt="Publication 6" style="width: 80%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub6-thumbnail.png" alt="Met-loop" style="width: 80%; max-width: 100%; height: auto;" />
   </a>
 </p>
 
