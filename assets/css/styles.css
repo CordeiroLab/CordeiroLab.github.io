@@ -355,7 +355,7 @@ a {
 .news-ticker {
   display: flex;
   align-items: center;
-  background-color: #2a6f4d;
+  background-color: #333;
   color: white;
   padding: 0.5em 1em;
   font-family: sans-serif;
@@ -384,7 +384,7 @@ a {
 }
 
 .news-icon {
-  width: 20px;
+  width: 40px;
   height: 20px;
   vertical-align: middle;
 }
