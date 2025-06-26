@@ -265,7 +265,10 @@ a {
   color: white;
   align-items: center;
   text-decoration: none;
-  margin-right: 2em;
+}
+
+.link-news:hover {
+  text-decoration: none;
 }
 
 /* msg form */
@@ -386,20 +389,29 @@ a {
 
 .news-items {
   display: flex;
+  gap: 2em;
   animation: scroll-left 18s linear infinite;
 }
 
-.news-items span {
+.news-item {
   display: flex;
   align-items: center;
-  margin-right: 4em;
-  white-space: nowrap;
-  gap: 0.5em;
+}
+
+.label {
+  font-weight: bold;
+  background-color: #333;
+  color: white;
+  padding: 0.3em 0.6em;
+  border-radius: 5px;
+  flex-shrink: 0;
 }
 
 .news-icon {
   width: 40px;
   height: 20px;
+  margin-right:0.5em;
+  border-radius: 4px;
 }
 
 @keyframes scroll-left {
