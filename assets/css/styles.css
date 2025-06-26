@@ -377,9 +377,7 @@ a {
 }
 
 .news-items {
-  display: inline-block;
-  white-space: nowrap;
-  min-width: 100%;
+  display: flex;
   animation: scroll-left 18s linear infinite;
 }
 
