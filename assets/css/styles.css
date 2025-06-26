@@ -378,7 +378,6 @@ a {
 
 .news-ticker {
   display: flex;
-  align-items: center;
   background-color: #333;
   color: white;
   padding: 0.5em 1em;
@@ -389,7 +388,6 @@ a {
 
 .news-items {
   display: flex;
-  gap: 2em;
   animation: scroll-left 18s linear infinite;
 }
 
