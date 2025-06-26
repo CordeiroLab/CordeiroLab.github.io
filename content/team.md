@@ -46,6 +46,18 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/carmen.jpg');"></div>
+    <div class="flip-card-back">
+      <div class="name">Carmen Olivença</div>
+      <div>PhD student</div>
+      <a href="/team/carmen.html" target="_blank" class="btn">Read more</a>
+    </div>
+  </div>
+</label>
+
+<label class="flip-card">
+  <input type="checkbox" />
+  <div class="flip-card-inner">
     <div class="flip-card-front" style="background-image: url('/assets/images/team/jose.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">José Quintal</div>
