@@ -261,6 +261,7 @@ a {
 }
 
 .link-news {
+  display: flex;
   color: white;
   align-items: center;
   text-decoration: none;
