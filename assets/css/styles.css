@@ -260,6 +260,14 @@ a {
     color: lightblue; /* This changes the hyperlink color to light blue */
 }
 
+.link-news {
+  color: white;
+  text-decoration: none;
+}
+.link-red:hover {
+  text-decoration: none;
+}
+
 /* msg form */
   form {
     max-width: 500px;
