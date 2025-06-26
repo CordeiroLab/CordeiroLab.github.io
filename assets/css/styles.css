@@ -260,17 +260,6 @@ a {
     color: lightblue; /* This changes the hyperlink color to light blue */
 }
 
-.link-news {
-  display: flex;
-  color: white;
-  align-items: center;
-  text-decoration: none;
-}
-
-.link-news:hover {
-  text-decoration: none;
-}
-
 /* msg form */
   form {
     max-width: 500px;
@@ -391,6 +380,14 @@ a {
   animation: scroll-left 18s linear infinite;
 }
 
+.news-item {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  margin-right: 4em;
+  flex-shrink: 0;
+}
+
 .label {
   font-weight: bold;
   background-color: #333;
@@ -400,11 +397,33 @@ a {
   flex-shrink: 0;
 }
 
+.link-news {
+  display: flex;
+  color: white;
+  align-items: center;
+  text-decoration: none;
+  line-height: 1.4;
+  font-size: 0.95em;
+  gap: 0.6em;
+}
+
+.link-news:hover {
+  text-decoration: none;
+}
+
 .news-icon {
   width: 40px;
   height: 20px;
-  margin-right:0.5em;
+  object-fit: cover;
+  margin-right: 0.5em;
+  flex-shrink: 0;
   border-radius: 4px;
+}
+
+.news-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 @keyframes scroll-left {
