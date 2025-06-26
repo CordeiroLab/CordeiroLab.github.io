@@ -262,9 +262,7 @@ a {
 
 .link-news {
   color: white;
-  text-decoration: none;
-}
-.link-red:hover {
+  align-items: center;
   text-decoration: none;
 }
 
