@@ -393,11 +393,6 @@ a {
   animation: scroll-left 18s linear infinite;
 }
 
-.news-item {
-  display: flex;
-  align-items: center;
-}
-
 .label {
   font-weight: bold;
   background-color: #333;
