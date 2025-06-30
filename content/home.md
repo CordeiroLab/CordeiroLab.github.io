@@ -6,4 +6,4 @@
 ><p align="center">
 >  <img src="/assets/images/Enzyme-LLPS.png" alt="LLPS" style="width: 100%; max-width: 100%; height: auto;" />  
 ><p align="center">
->  <img src="/assets/images/CLEM.JPG" alt="CLEM" style="width: 100%; max-width: 100%; height: auto;" />
+>  <img src="/assets/images/Disorder.png" alt="Disorder" style="width: 100%; max-width: 100%; height: auto;" />
