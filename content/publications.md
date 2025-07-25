@@ -32,7 +32,7 @@
 **15.** Gaspar,C.J., Gomes,T., Martins,J.C., Melo,M.N., Adrain,C., Cordeiro,T.N.* ,Domingos,P.M*. (2023) **Xport-A functions as a chaperone by stabilizing the first five transmembrane domains of rhodopsin-1.** *iScience*, 26, 108309. [link](https://doi.org/10.1016/j.isci.2023.108309)
 <p align="center">
   <a href="https://doi.org/10.1016/j.isci.2023.108309" >
-  <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Xport-A" style="width: 90%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Xport-A" style="width: 70%; height: auto;" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 **6.** Borges,P.T., Brissos,V., Hernandez,G., Masgrau,L., Lucas,M.F., Monza,E., Frazão,C., Cordeiro,T.N. *, Martins,L.O. * (2020) **Methionine-Rich Loop of Multicopper Oxidase McoA Follows Open-to-Close Transitions with a Role in Enzyme Catalysis.** *ACS Catal.*, 10, 7162–7176. [link](https://doi.org/10.1021/acscatal.0c01623)
 <p align="center">
   <a href="https://doi.org/10.1021/acscatal.0c01623" >
-  <img src="/assets/images/thumbnail/pub6-thumbnail.png" alt="Met-loop" style="width: 80%; max-width: 100%; height: auto;" />
+  <img src="/assets/images/thumbnail/pub6-thumbnail.png" alt="Met-loop" style="width: 70%; max-width: 100%; height: auto;" />
   </a>
 </p>
 
@@ -99,6 +99,11 @@
 **8.** De Biasio,A., de Opakua,A.I., Mortuza,G.B., Molina,R., Cordeiro,T.N., Castillo,F., Villate,M., Merino,N., Delgado,S., Gil-Cartón,D., et al. (2015) **Structure of p15(PAF)-PCNA complex and implications for clamp sliding during DNA replication and repair.** *Nat. Commun.*, 6, 6439. [link](https://doi.org/10.1038/ncomms7439)
 
 **7.** Cordeiro,T.N., García,J., Bernadó,P., Millet,O., Pons,M. (2015) **A Three-protein Charge Zipper Stabilizes a Complex Modulating Bacterial Gene Silencing.** *J. Biol. Chem.*, 290, 21200–21212. [link](https://doi.org/10.1074/jbc.M114.630400)
+<p align="center">
+  <a href="https://doi.org/10.1074/jbc.M114.630400" >
+  <img src="/assets/images/thumbnail/cover_jbc.png" alt="charge zipper" style="width: 70%; max-width: 100%; height: auto;" />
+  </a>  
+</p>
 
 **6.** De Biasio,A., Ibáñez de Opakua,A., Cordeiro,T.N., Villate,M., Merino,N., Sibille,N., Lelli,M., Diercks,T., Bernadó,P., Blanco,F.J. (2014) **p15PAF is an intrinsically disordered protein with nonrandom structural preferences at sites of interaction with other proteins.** *Biophys. J.*, 106, 865–874. <img src="/assets/images/icons/FOR_icon.png" alt="Faculty Opinions Recommendation" width="20" height="20">  [link](https://doi.org/10.1016/j.bpj.2013.12.046)
 
