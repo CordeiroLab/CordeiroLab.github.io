@@ -105,8 +105,7 @@
   </a>  
 </p>
 
->**On The Cover:** *A charge zipper formed by residues with alternating charges forms the core of the complex between Hha and H-NS. H-NS oligomers silence a large number of genes but Hha endow H-NS with the capacity to selectively silence horizontally acquired genes in Enterobacteria.*
->>> Art work created by Cassandre Lemarcis
+>**On The Cover:** *A charge zipper formed by residues with alternating charges forms the core of the complex between Hha and H-NS essential to selectively silence horizontally acquired genes in Enterobacteria.* Art work created by **Cassandre Lemarcis**
 
 **6.** De Biasio,A., Ibáñez de Opakua,A., Cordeiro,T.N., Villate,M., Merino,N., Sibille,N., Lelli,M., Diercks,T., Bernadó,P., Blanco,F.J. (2014) **p15PAF is an intrinsically disordered protein with nonrandom structural preferences at sites of interaction with other proteins.** *Biophys. J.*, 106, 865–874. <img src="/assets/images/icons/FOR_icon.png" alt="Faculty Opinions Recommendation" width="20" height="20">  [link](https://doi.org/10.1016/j.bpj.2013.12.046)
 
