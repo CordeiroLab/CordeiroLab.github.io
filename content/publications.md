@@ -77,3 +77,39 @@
 **2.** Fernandes,C.G., Martins,D., Hernandez,G., Sousa,A.L., Freitas,C., Tranfield,E.M., Cordeiro,T.N., Serrano,M., Moran,C.P. and Henriques,A.O. (2019) **Temporal and spatial regulation of protein cross-linking by the pre-assembled substrates of a Bacillus subtilis spore coat transglutaminase.** *PLoS Genet.*, 15, e1007912. [link](https://doi.org/10.1371/journal.pgen.1007912)
 
 **1.** Arbesú,M., Maffei,M., Cordeiro,T.N., Teixeira,J.M.C., Pérez,Y., Bernadó,P., Roche,S. and Pons,M. (2017) **The unique domain forms a fuzzy intramolecular complex in src family kinases.** *Structure*, 25, 630-640.e4. [link](https://doi.org/10.1016/j.str.2017.02.011)
+
+> 
+> Before ITQB NOVA, Publications arising from **Post Doctoral**, **PhD**, **MSc & BSc** work
+> 
+
+## 2005-2018
+
+**14.** Delaforge,E., Cordeiro,T.N., Bernadó,P., Sibille,N. (2018) **Conformational characterization of intrinsically disordered proteins and its biological significance.** In Webb,G.A. (ed), Modern Magnetic Resonance. Springer International Publishing, Cham, pp. 381–399. [link](https://doi.org/10.1007/978-3-319-28388-3_52)
+
+**13.** Cordeiro,T.N., Chen,P.-C., De Biasio,A., Sibille,N., Blanco,F.J., Hub,J.S., Crehuet,R., Bernadó,P. (2017) **Disentangling polydispersity in the PCNA-p15PAF complex, a disordered, transient and multivalent macromolecular assembly.** *Nucleic Acids Res.*, 45, 1501–1515.[link](https://doi.org/10.1093/nar/gkw1183)
+
+**12.** Cordeiro,T.N., Herranz-Trillo,F., Urbanek,A., Estaña,A., Cortés,J., Sibille,N., Bernadó,P. (2017) **Structural Characterization of Highly Flexible Proteins by Small-Angle Scattering.** *Adv. Exp. Med. Biol.*, 1009, 107–129. [link](https://doi.org/10.1007/978-981-10-6038-0_7)
+
+**11.** Ibáñez de Opakua,A., Merino,N., Villate,M., Cordeiro,T.N., Ormaza,G., Sánchez-Carbayo,M., Diercks,T., Bernadó,P., Blanco,F.J. (2017) **The metastasis suppressor KISS1 is an intrinsically disordered protein slightly more extended than a random coil.** *PLoS ONE*, 12, e0172507.[link](https://doi.org/10.1371/journal.pone.0172507)
+
+**10.** Cordeiro,T.N., Herranz-Trillo,F., Urbanek,A., Estaña,A., Cortés,J., Sibille,N., Bernadó,P. (2017) **Small-angle scattering studies of intrinsically disordered proteins and their complexes.** *Curr. Opin. Struct. Biol.*, 42, 15–23. [link](https://doi.org/10.1016/j.sbi.2016.10.011)
+    
+**9.** Marimon,O., Teixeira,J.M.C., Cordeiro,T.N., Soo,V.W.C., Wood,T.L., Mayzel,M., Amata,I., García,J., Morera,A., Gay,M., et al. (2016) **An oxygen-sensitive toxin-antitoxin system.** *Nat. Commun.*, 7, 13634. [link](https://doi.org/10.1038/ncomms13634)
+
+**8.** De Biasio,A., de Opakua,A.I., Mortuza,G.B., Molina,R., Cordeiro,T.N., Castillo,F., Villate,M., Merino,N., Delgado,S., Gil-Cartón,D., et al. (2015) **Structure of p15(PAF)-PCNA complex and implications for clamp sliding during DNA replication and repair.** *Nat. Commun.*, 6, 6439. [link](https://doi.org/10.1038/ncomms7439)
+
+**7.** Cordeiro,T.N., García,J., Bernadó,P., Millet,O., Pons,M. (2015) **A Three-protein Charge Zipper Stabilizes a Complex Modulating Bacterial Gene Silencing.** *J. Biol. Chem.*, 290, 21200–21212. [link](https://doi.org/10.1074/jbc.M114.630400)
+
+**6.** De Biasio,A., Ibáñez de Opakua,A., Cordeiro,T.N., Villate,M., Merino,N., Sibille,N., Lelli,M., Diercks,T., Bernadó,P., Blanco,F.J. (2014) **p15PAF is an intrinsically disordered protein with nonrandom structural preferences at sites of interaction with other proteins.** *Biophys. J.*, 106, 865–874. [link](https://doi.org/10.1016/j.bpj.2013.12.046)
+
+**5.** 32. Renault,M., García,J., Cordeiro,T.N., Baldus,M., Pons,M. (2013) **Protein oligomers studied by solid-state NMR--the case of the full-length nucleoid-associated protein histone-like nucleoid structuring protein.** *FEBS J.*, 280, 2916–2928. [link]( https://doi.org/10.1111/febs.12297)
+
+**4.** García,J., Cordeiro,T.N., Prieto,M.J., Pons,M. (2012) **Oligomerization and DNA binding of Ler, a master regulator of pathogenicity of enterohemorrhagic and enteropathogenic Escherichia coli.** *Nucleic Acids Res.*, 40, 10254–10262. [link](https://doi.org/10.1093/nar/gks846)
+
+**3.** Cordeiro,T.N., Schmidt,H., Madrid,C., Juárez,A., Bernadó,P., Griesinger,C., García,J., Pons,M. (2011) **Indirect DNA readout by an H-NS related protein: structure of the DNA complex of the C-terminal domain of Ler.** *PLoS Pathog.*, 7, e1002380. [link](https://doi.org/10.1371/journal.ppat.1002380)
+
+**2.** Cordeiro,T.N., Garcia,J., Pons,J.-I., Aznar,S., Juárez,A., Pons,M. (2008) **A single residue mutation in Hha preserving structure and binding to H-NS results in loss of H-NS mediated gene repression properties.** *FEBS Lett.*, 582, 3139–3144. [link](https://doi.org/10.1016/j.febslet.2008.07.037)
+
+**1.** 36. García,J., Cordeiro,T.N., Nieto,J.M., Pons,I., Juárez,A., Pons,M. (2005) **Interaction between the bacterial nucleoid associated proteins Hha and H-NS involves a conformational change of Hha.** *Biochem. J.*, 388, 755–762. [link](https://doi.org/10.1042/BJ20050002)
+
+
