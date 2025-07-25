@@ -100,7 +100,7 @@
 
 **7.** Cordeiro,T.N., García,J., Bernadó,P., Millet,O., Pons,M. (2015) **A Three-protein Charge Zipper Stabilizes a Complex Modulating Bacterial Gene Silencing.** *J. Biol. Chem.*, 290, 21200–21212. [link](https://doi.org/10.1074/jbc.M114.630400)
 
-**6.** De Biasio,A., Ibáñez de Opakua,A., Cordeiro,T.N., Villate,M., Merino,N., Sibille,N., Lelli,M., Diercks,T., Bernadó,P., Blanco,F.J. (2014) **p15PAF is an intrinsically disordered protein with nonrandom structural preferences at sites of interaction with other proteins.** *Biophys. J.*, 106, 865–874. [link](https://doi.org/10.1016/j.bpj.2013.12.046)
+**6.** De Biasio,A., Ibáñez de Opakua,A., Cordeiro,T.N., Villate,M., Merino,N., Sibille,N., Lelli,M., Diercks,T., Bernadó,P., Blanco,F.J. (2014) **p15PAF is an intrinsically disordered protein with nonrandom structural preferences at sites of interaction with other proteins.** *Biophys. J.*, 106, 865–874. <img src="/assets/images/icons/FOR_icon.png" alt="Faculty Opinions Recommendation" width="20" height="20">  [link](https://doi.org/10.1016/j.bpj.2013.12.046)
 
 **5.** 32. Renault,M., García,J., Cordeiro,T.N., Baldus,M., Pons,M. (2013) **Protein oligomers studied by solid-state NMR--the case of the full-length nucleoid-associated protein histone-like nucleoid structuring protein.** *FEBS J.*, 280, 2916–2928. [link]( https://doi.org/10.1111/febs.12297)
 
