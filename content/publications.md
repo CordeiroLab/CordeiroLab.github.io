@@ -2,14 +2,14 @@
 ## 2025
 **22.** Santos CC, Schweizer N, Cairrão F, Ramirez J, Osinalde N, Yang M, Gaspar CJ, Rasheva VI, Trigo ML, Hensel Z, Adrain C, Cordeiro TN, Voigt F, Gameiro PA, Mayor U, Domingos PM.* (2025) **Fbxo42 promotes the degradation of Ataxin-2 granules to trigger terminal Xbp1 signaling.** *Nat Commun* 16:7523.[link](https://doi.org/10.1038/s41467-025-62417-2)
 
-**21.** Hernandez G., Martins M.L., Fernandes N.P., Veloso T., Lopes J., Gomes, T. *, Cordeiro,T.N. * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
+**21.** Hernandez G, Martins ML, Fernandes NP, Veloso T, Lopes J, Gomes, T *, Cordeiro,TN * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
 <p align="center">
   <a href="https://doi.org/10.1093/nar/gkaf502" >
   <img src="/assets/images/thumbnail/pub21-thumbnail.png" alt="N-Protein" style="width: 90%; max-width: 100%; height: auto;" />
   </a>  
 </p>
 
-**20.** Gomes,T., Ruiz,L., Martin-Malpartida,P., Bernado,P., Baptista,A.M., Macias,M.J., Cordeiro,T.N.* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
+**20.** Gomes T, Ruiz L, Martin-Malpartida P, Bernado P, Baptista AM, Macias MJ, Cordeiro TN* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
 <p align="center">
   <a href="https://doi.org/10.1016/j.jmb.2025.169103" >
   <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="KdSAXS" style="width: 90%; max-width: 100%; height: auto;" />
@@ -17,7 +17,7 @@
 </p>
 
 ## 2024
-**19.** Vieira,M.F.M., Hernandez,G., Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
+**19.** Vieira MFM, Hernandez G, Zhong Q, Arbesú M, Veloso T, Gomes T, Martins ML, Monteiro H, Frazão C, Frankel G, Zanzoni A,  Cordeiro TN* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 <p align="center">
   <a href="https://doi.org/10.1038/s42003-024-05856-9" >
   <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Tir" style="width: 90%; max-width: 100%; height: auto;" />
@@ -26,12 +26,12 @@
 
 **18.** Bárria,C., Athayde,D., Hernandez,G., Fonseca,L., Casinhas,J., Cordeiro,T.N., Archer,M., Arraiano,C.M., Brito,J.A., Matos,R.G. (2024) **Structure and function of Campylobacter jejuni polynucleotide phosphorylase (PNPase): Insights into the role of this RNase in pathogenicity.** *Biochimie,* 216, 56–70. [link](https://doi.org/10.1016/j.biochi.2023.10.006)
 
-**17.** Ghafouri,H., Lazar,T., Del Conte,A., Tenorio Ku,L.G., PED Consortium, Tompa,P., Tosatto,S.C.E., Monzon,A.M. (2024) **PED in 2024: improving the community deposition of structural ensembles for intrinsically disordered proteins.** *Nucleic Acids Res.*, 52, D536–D544. [link](https://doi.org/10.1093/nar/gkad947)
+**17.** Ghafouri H, Lazar T, Del Conte A, Tenorio Ku LG, PED Consortium, Tompa P, Tosatto SCE, Monzon AM (2024) **PED in 2024: improving the community deposition of structural ensembles for intrinsically disordered proteins.** *Nucleic Acids Res.*, 52, D536–D544. [link](https://doi.org/10.1093/nar/gkad947)
 
 ## 2023
-**16.** Marini,E., Olivença,C., Ramalhete,S., Aguirre,A.M., Ingle,P., Melo,M.N., Antunes,W., Minton,N.P., Hernandez,G., Cordeiro,T.N., et al. (2023) **A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.** *PLoS Pathog.*, 19, e1011741. [link](https://doi.org/10.1371/journal.ppat.1011741)
+**16.** Marini E, Olivença C, Ramalhete S, Aguirre AM, Ingle P, Melo MN, Antunes W, Minton NP, Hernandez G, Cordeiro TN, et al. (2023) **A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.** *PLoS Pathog.*, 19, e1011741. [link](https://doi.org/10.1371/journal.ppat.1011741)
 
-**15.** Gaspar,C.J., Gomes,T., Martins,J.C., Melo,M.N., Adrain,C., Cordeiro,T.N.* ,Domingos,P.M*. (2023) **Xport-A functions as a chaperone by stabilizing the first five transmembrane domains of rhodopsin-1.** *iScience*, 26, 108309. [link](https://doi.org/10.1016/j.isci.2023.108309)
+**15.** Gaspar CJ, Gomes T, Martins JC, Melo MN, Adrain C, Cordeiro TN*, Domingos PM*. (2023) **Xport-A functions as a chaperone by stabilizing the first five transmembrane domains of rhodopsin-1.** *iScience*, 26, 108309. [link](https://doi.org/10.1016/j.isci.2023.108309)
 <p align="center">
   <a href="https://doi.org/10.1016/j.isci.2023.108309" >
   <img src="/assets/images/thumbnail/pub15-thumbnail.png" alt="Xport-A" style="width: 70%; height: auto;" />
@@ -39,9 +39,9 @@
 </p>
 
 ## 2022
-**14.** Pinto,D., Gonçalo,R., Louro,M., Silva,M.S., Hernandez,G., Cordeiro,T.N., Cordeiro,C. and São-José,C. (2022) **On the Occurrence and Multimerization of Two-Polypeptide Phage Endolysins Encoded in Single Genes.** *Microbiol. Spectr.*, 10, e0103722. [link](https://doi.org/10.1128/spectrum.01037-22)
+**14.** Pinto D, Gonçalo R, Louro M, Silva MS, Hernandez G, Cordeiro TN, Cordeiro C, São-José C (2022) **On the Occurrence and Multimerization of Two-Polypeptide Phage Endolysins Encoded in Single Genes.** *Microbiol. Spectr.*, 10, e0103722. [link](https://doi.org/10.1128/spectrum.01037-22)
 
-**13.** Guillien,M., Mouhand,A., Fournet,A., Gontier,A., Martí Navia,A., Cordeiro,T.N., Allemand,F., Thureau,A., Banères,J.-L., Bernadó,P., et al. (2022) **Structural Insights into the Intrinsically Disordered GPCR C-Terminal Region, Major Actor in Arrestin-GPCR Interaction.** *Biomolecules*, 12. [link](https://doi.org/10.3390/biom12050617)
+**13.** Guillien M, Mouhand A, Fournet A, Gontier A, Martí NaviaA, Cordeiro TN, Allemand F, Thureau A, Banères J-L, Bernadó P, et al. (2022) **Structural Insights into the Intrinsically Disordered GPCR C-Terminal Region, Major Actor in Arrestin-GPCR Interaction.** *Biomolecules*, 12. [link](https://doi.org/10.3390/biom12050617)
 
 **12.** Brissos,V., Borges,P.T., Núñez-Franco,R., Lucas,M.F., Frazão,C., Monza,E., Masgrau,L., Cordeiro,T.N., Martins,L.O. (2022) **Distal Mutations Shape Substrate-Binding Sites during Evolution of a Metallo-Oxidase into a Laccase.** *ACS Catal.*, 12, 9, 5022-5035 [link](https://doi.org/10.1021/acscatal.2c00336)
 
