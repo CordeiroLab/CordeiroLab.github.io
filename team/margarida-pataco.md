@@ -4,7 +4,7 @@ title: Margarida Pataco
 
 # Margarida Pataco
 
-> Intern 
+> Intern (Cellular and Molecular Biology - FCT NOVA)
 
 ![Margarida Pataco](/assets/images/team/margarida.jpg){: width="50%" style="border-radius: 10px;" }
 
