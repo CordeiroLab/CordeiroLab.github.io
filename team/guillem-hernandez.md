@@ -7,7 +7,7 @@ title: Guillem Hernandez
 
 > PhD Student in Molecular Biosciences [<img src="/assets/images/molbios.jpg" alt="molbios" width="40" height="40">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
 
-![Maria L. Martins](/assets/images/team/guillem.jpg){: width="50%" style="border-radius: 10px;" }
+![Guillem Hernandez](/assets/images/team/guillem.jpg){: width="50%" style="border-radius: 10px;" }
 
 ## Biography
 
