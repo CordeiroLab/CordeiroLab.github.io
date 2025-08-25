@@ -91,6 +91,7 @@
     <div class="flip-card-back">
       <div class="name">Tiago Gomes</div>
       <div>Postdoc</div>
+      <a href="/team/tiago-gomes.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -102,6 +103,7 @@
     <div class="flip-card-back">
       <div class="name">Ignacio Amusategui</div>
       <div>Postmaster fellow</div>
+      <a href="/team/nacho.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -113,6 +115,7 @@
     <div class="flip-card-back">
       <div class="name">André Meireis</div>
       <div>Postmaster fellow</div>
+      <a href="/team/andre-meireis.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -124,6 +127,7 @@
     <div class="flip-card-back">
       <div class="name">Laura J. Castro</div>
       <div>Postmaster fellow</div>
+      <a href="/team/laura-castro.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -147,6 +151,7 @@
     <div class="flip-card-back">
       <div class="name">Marta Vieira</div>
       <div>PhD student</div>
+      <a href="/team/marta-vieira.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -158,6 +163,7 @@
     <div class="flip-card-back">
       <div class="name">João Lopes</div>
       <div>BSc student</div>
+      <a href="/team/joao-lopes.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -169,6 +175,7 @@
     <div class="flip-card-back">
       <div class="name">Tiago Veloso</div>
       <div>MSc/BSc student</div>
+      <a href="/team/tiago-veloso.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -180,6 +187,7 @@
     <div class="flip-card-back">
       <div class="name">Hugo Monteiro</div>
       <div>Postmaster fellow</div>
+      <a href="/team/hugo-monteiro.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
@@ -191,6 +199,7 @@
     <div class="flip-card-back">
       <div class="name">Margarida Pataco</div>
       <div>Intern</div>
+      <a href="/team/margarida-pataco.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
 </label>
