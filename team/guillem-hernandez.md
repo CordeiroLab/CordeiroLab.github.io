@@ -16,6 +16,13 @@ Combining his knowledge, his passion for learning and teaching and his will to c
 PhD holder since early 2024, he is now involved in the Sales and Scientific Project Development for a Swiss multinational company
 
 ## Selected publications
+**.** **Hernandez G**, Martins ML, Fernandes NP, Veloso T, Lopes J, Gomes, T *, Cordeiro,TN * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
+<p align="center">
+  <a href="https://doi.org/10.1093/nar/gkaf502" >
+  <img src="/assets/images/thumbnail/pub21-thumbnail.png" alt="N-Protein" style="width: 90%; max-width: 100%; height: auto;" />
+  </a>  
+</p>
+
 **.** Vieira,M.F.M., **Hernandez,G.**, Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 <p align="center">
   <a href="https://doi.org/10.1038/s42003-024-05856-9" >
