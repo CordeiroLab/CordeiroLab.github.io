@@ -7,7 +7,7 @@ title: Hugo Monteiro
 
 > Post-master Student in Biochemistry
 
-![Guillem Hernandez](/assets/images/team/hugo.jpg){: width="50%" style="border-radius: 10px;" }
+![Hugo Monteiro](/assets/images/team/hugo.jpg){: width="50%" style="border-radius: 10px;" }
 
 ## Biography
 
