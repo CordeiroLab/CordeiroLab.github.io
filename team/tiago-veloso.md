@@ -5,14 +5,14 @@ title: Tiago Veloso
 
 # Tiago Veloso
 
-> MSc Student in Biochemistry [<img src="/assets/images/logo_nova_fct.png" alt="molbios" width="40" height="40">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
+> MSc Student in Biochemistry [<img src="/assets/images/logo_nova_fct.png" alt="molbios" width="80" height="40">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
 
 ![Tiago Veloso](/assets/images/team/tiagov.jpg){: width="50%" style="border-radius: 10px;" }
 
 ## Biography
 
-> **Tiago Veloso** began his journey in our lab as an enthusiastic undergraduate, and he quickly made his mark as he transitioned into an MSc student in Biochemistry at NOVA FCT. His research centered on the fascinating world of host-pathogen interactions, where he played a pivotal role in unraveling the intricacies of the SARS-CoV-2 N-protein conformational landscape and the E. coli Translocated Intimin Receptor, a prominent effector. 
-With a passion for discovery, Tiago dedicated himself to refining protein purification protocols and mastering in vitro phosphorylation and binding assays through NMR techniques. His hard work and innovative approach culminated in significant contributions that laid the foundation for two published papers, with another exciting project currently in the pipeline.
+> **Tiago Veloso** began his journey in our lab as an enthusiastic undergraduate, and he quickly made his mark as he transitioned into an MSc student in Biochemistry at NOVA FCT. His research centered on the fascinating world of host-pathogen interactions, where he played a pivotal role in unraveling the intricacies of the SARS-CoV-2 N-protein conformational landscape and the *E. coli* Translocated Intimin Receptor, a prominent effector. 
+With a passion for discovery, Tiago dedicated himself to refining protein purification protocols and mastering in vitro phosphorylation and binding assays through NMR techniques. His hard work and innovative approach culminated in significant contributions that laid the foundation for **two published papers**, with another exciting project currently in the pipeline.
 Today, Tiago has taken his expertise to the next level as a Field Engineer at VWR (Avantor), where he's sure to continue making an impact in the scientific community!
 
 ## Selected publications
