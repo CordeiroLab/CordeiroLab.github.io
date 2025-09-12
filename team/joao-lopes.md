@@ -7,37 +7,28 @@ title: João Lopes
 
 > BSc Student in Biochemistry [<img src="/assets/images/logo_nova_fct.png" alt="molbios" width="80" height="40">](https://www.itqb.unl.pt/education/phd-molecular-bioscience)
 
-![Tiago Veloso](/assets/images/team/joao.jpg){: width="50%" style="border-radius: 10px;" }
+![João Lopes](/assets/images/team/joao.jpg){: width="50%" style="border-radius: 10px;" }
 
 ## Biography
 
-> **Tiago Veloso** began his journey in our lab as an enthusiastic undergraduate, and he quickly made his mark as he transitioned into an MSc student in Biochemistry at NOVA FCT. His research centered on the fascinating world of host-pathogen interactions, where he played a pivotal role in unraveling the intricacies of the SARS-CoV-2 N-protein conformational landscape and the *E. coli* Translocated Intimin Receptor, a prominent effector. 
-With a passion for discovery, Tiago dedicated himself to refining protein purification protocols and mastering in vitro phosphorylation and binding assays through NMR techniques. His hard work and innovative approach culminated in significant contributions that laid the foundation for **two published papers**, with another exciting project currently in the pipeline.
-Today, Tiago has taken his expertise to the next level as a Field Engineer at VWR (Avantor), where he's sure to continue making an impact in the scientific community!
+> **João Lopes** is a remarkable individual whose journey in the scientific realm began in our lab, where he dedicated himself to exploring the fascinating phase separation properties of the SARS-CoV-2 N-protein for his undergraduate final project. His innovative mindset and relentless dedication not only advanced our understanding in the field but also resulted in the publication of a significant research paper—an achievement that truly reflects his hard work and intellectual curiosity.
+> Outside of his academic pursuits, João is forging an exciting path as a Flight Operations Officer. His passion for aviation is evident as he studies to become an airplane pilot. Additionally, he embraces his love for the water as a skipper and sailing coach, showcasing his versatility and commitment to pursuing his dreams.
 
 ## Selected publications
-**.** Hernandez G, Martins ML, Fernandes NP, **Veloso T**, Lopes J, Gomes T *, Cordeiro TN * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
+**.** Hernandez G, Martins ML, Fernandes NP, Veloso T, **Lopes J**, Gomes T *, Cordeiro TN * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
 <p align="center">
   <a href="https://doi.org/10.1093/nar/gkaf502" >
   <img src="/assets/images/thumbnail/pub21-thumbnail.png" alt="N-Protein" style="width: 90%; max-width: 100%; height: auto;" />
   </a>  
 </p>
 
-**.** Vieira MFM, Hernandez G, Zhong Q, Arbesú M, **Veloso T**, Gomes T, Martins ML, Monteiro H, Frazão C, Frankel G, Zanzoni A,  Cordeiro TN* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
-<p align="center">
-  <a href="https://doi.org/10.1038/s42003-024-05856-9" >
-  <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Publication 19" style="width: 90%; max-width: 100%; height: auto;" />
-  </a>
-</p>
-
-## Research Interests
-
-- Biomolecular NMR
-- Protein Biochemistry
-- Host-pathogen interactions
+## Research & Interests
+- Phase Separation
+- SARS-CoV2
+- Sailing and Flying
 
 ## Current position
-Field Engineer at [VWR (Avantor)](https://www.vwr.com)
+**Flight Operations Officer** at [OMNI - Executive Aviation]([https://www.vwr.com](http://www.omniaviation.pt))
 
 
 ## Links
