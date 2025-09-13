@@ -50,6 +50,7 @@ PhD holder since early 2024, he is now involved in the Sales and Scientific Proj
 >**.** Marini,E., Olivença,C., Ramalhete,S., Aguirre,A.M., Ingle,P., Melo,M.N., Antunes,W., Minton,N.P., **Hernandez,G.**, Cordeiro,T.N., et al. (2023) **A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.** *PLoS Pathog.*, 19, e1011741. [link](https://doi.org/10.1371/journal.ppat.1011741)
 
 >**.** Pinto,D., Gonçalo,R., Louro,M., Silva,M.S., **Hernandez,G.**, Cordeiro,T.N., Cordeiro,C. and São-José,C. (2022) **On the Occurrence and Multimerization of Two-Polypeptide Phage Endolysins Encoded in Single Genes.** *Microbiol. Spectr.*, 10, e0103722. [link](https://doi.org/10.1128/spectrum.01037-22)
+
 ---
 
 **[← Back to Team](/pages/team.html)**
