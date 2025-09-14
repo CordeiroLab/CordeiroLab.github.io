@@ -17,39 +17,38 @@ PhD holder since early 2024, he is now involved in the Sales and Scientific Proj
 
 
 ## Research & Interests
-
->- Structural biology (SAXS, NMR)
->- Protein Biochemistry
->- Virulence mechanisms
->- Teamwork and Collaboration
+- Structural biology (SAXS, NMR)
+- Protein Biochemistry
+- Virulence mechanisms
+- Teamwork and Collaboration
 
 ## Current position
->Sales Manager at [Kuhner Shaker](https://kuhner.com)
+Sales Manager at [Kuhner Shaker](https://kuhner.com)
 
 
 ## Links
->[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/ghernandezgras)
->[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/portal/611C-6209-D3CB)
+[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/ghernandezgras)
+[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/portal/611C-6209-D3CB)
 
 
 ## Selected publications
->**.** **Hernandez G**, Martins ML, Fernandes NP, Veloso T, Lopes J, Gomes, T *, Cordeiro,TN * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
+**.** **Hernandez G**, Martins ML, Fernandes NP, Veloso T, Lopes J, Gomes, T *, Cordeiro,TN * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
 <p align="center">
   <a href="https://doi.org/10.1093/nar/gkaf502" >
   <img src="/assets/images/thumbnail/pub21-thumbnail.png" alt="N-Protein" style="width: 90%; max-width: 100%; height: auto;" />
   </a>  
 </p>
 
->**.** Vieira,M.F.M., **Hernandez,G.**, Zhong,Q., Arbesú,M., Veloso,T., Gomes,T., Martins,M.L., Monteiro,H., Frazão,C., Frankel,G., Zanzoni, A.,  Cordeiro, T.N.* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
+**.** Vieira MFM, **Hernandez G**, Zhong Q, Arbesú M, Veloso T, Gomes T, Martins ML, Monteiro H, Frazão C, Frankel G, Zanzoni A,  Cordeiro TN* (2024) **The pathogen-encoded signalling receptor Tir exploits host-like intrinsic disorder for infection.** *Commun. Biol.*, 7, 179. [link](https://doi.org/10.1038/s42003-024-05856-9)
 <p align="center">
   <a href="https://doi.org/10.1038/s42003-024-05856-9" >
   <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Publication 19" style="width: 90%; max-width: 100%; height: auto;" />
   </a>
 </p>
 
->**.** Marini,E., Olivença,C., Ramalhete,S., Aguirre,A.M., Ingle,P., Melo,M.N., Antunes,W., Minton,N.P., **Hernandez,G.**, Cordeiro,T.N., et al. (2023) **A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.** *PLoS Pathog.*, 19, e1011741. [link](https://doi.org/10.1371/journal.ppat.1011741)
+**.** Marini E, Olivença C, Ramalhete S, Aguirre AM, Ingle P, Melo MN, Antunes W, Minton NP, **Hernandez G**, Cordeiro TN, et al. (2023) **A sporulation signature protease is required for assembly of the spore surface layers, germination and host colonization in Clostridioides difficile.** *PLoS Pathog.*, 19, e1011741. [link](https://doi.org/10.1371/journal.ppat.1011741)
 
->**.** Pinto,D., Gonçalo,R., Louro,M., Silva,M.S., **Hernandez,G.**, Cordeiro,T.N., Cordeiro,C. and São-José,C. (2022) **On the Occurrence and Multimerization of Two-Polypeptide Phage Endolysins Encoded in Single Genes.** *Microbiol. Spectr.*, 10, e0103722. [link](https://doi.org/10.1128/spectrum.01037-22)
+**.** Pinto D, Gonçalo R, Louro M, Silva MS, **Hernandez G**, Cordeiro TN, Cordeiro C, São-José C (2022) **On the Occurrence and Multimerization of Two-Polypeptide Phage Endolysins Encoded in Single Genes.** *Microbiol. Spectr.*, 10, e0103722. [link](https://doi.org/10.1128/spectrum.01037-22)
 
 ---
 
