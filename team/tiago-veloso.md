@@ -15,6 +15,19 @@ title: Tiago Veloso
 With a passion for discovery, Tiago dedicated himself to refining protein purification protocols and mastering in vitro phosphorylation and binding assays through NMR techniques. His hard work and innovative approach culminated in significant contributions that laid the foundation for **two published papers**, with another exciting project currently in the pipeline.
 Today, Tiago has taken his expertise to the next level as a Field Engineer at VWR (Avantor), where he's sure to continue making an impact in the scientific community!
 
+## Research Interests
+
+- Biomolecular NMR
+- Protein Biochemistry
+- Host-pathogen interactions
+
+## Current position
+Field Engineer at [VWR (Avantor)](https://www.vwr.com)
+
+## Links
+>[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/tiago-veloso-575351202)
+>[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/portal/5D1F-C778-F6C0)
+
 ## Selected publications
 **.** Hernandez G, Martins ML, Fernandes NP, **Veloso T**, Lopes J, Gomes T *, Cordeiro TN * (2025) **Dynamic ensembles of SARS-CoV-2 N-protein reveal head-to-head coiled-coil-driven oligomerization and phase separation.** *Nucleic Acids Res.* Jun 6;53(11).[link](https://doi.org/10.1093/nar/gkaf502)
 <p align="center">
@@ -29,20 +42,6 @@ Today, Tiago has taken his expertise to the next level as a Field Engineer at VW
   <img src="/assets/images/thumbnail/pub19-thumbnail.png" alt="Publication 19" style="width: 90%; max-width: 100%; height: auto;" />
   </a>
 </p>
-
-## Research Interests
-
-- Biomolecular NMR
-- Protein Biochemistry
-- Host-pathogen interactions
-
-## Current position
-Field Engineer at [VWR (Avantor)](https://www.vwr.com)
-
-
-## Links
->[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/tiago-veloso-575351202)
->[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/portal/5D1F-C778-F6C0)
 
 ---
 
