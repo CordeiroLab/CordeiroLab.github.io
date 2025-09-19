@@ -12,7 +12,7 @@ title: Tiago Cordeiro
 ## Biography
 >I am a scientist passionate about understanding how intrinsically disordered proteins (IDPs) and phase separation organize **biomolecular processes**, contribute to **pathogen survival**, and drive **biotechnological innovation**. I lead the Dynamic Structural Biology Lab at ITQB-NOVA, where we combine advanced biophysical techniques—mainly **SAXS** and **NMR**—with **computational modeling** to investigate the structural dynamics of IDPs and their assemblies.
 My academic journey began with a Chemistry degree from IST-ULisboa, followed by a Master of Advanced Studies in Organic Chemistry at the University of Barcelona, and a PhD in biomolecular NMR. After postdoctoral research in France and Denmark—supported by a **Marie Skłodowska-Curie Fellowship**—I founded my independent research group in 2017.
-To date, I’ve authored **over 30 peer-reviewed publications**, secured national and European funding, and mentored students at all academic levels. I am deeply committed to advancing our understanding of protein dynamics and translating fundamental discoveries into innovative biotechnological and healthcare applications.
+To date, I’ve authored **over 35 peer-reviewed publications**, secured national and European funding, and mentored students at all academic levels. I am deeply committed to advancing our understanding of protein dynamics and translating fundamental discoveries into innovative biotechnological and healthcare applications.
 
 ## Research & Interests
 
