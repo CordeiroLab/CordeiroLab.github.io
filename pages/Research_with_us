@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team</title>
+    <link rel="icon" href="/assets/images/icons/cordeiro_lab_icon.png" type="image/png">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="/assets/menu.js" defer></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-11BY9ZPPC8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-11BY9ZPPC8');
+    </script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="menu-bar">
+                <!-- Name of the Webpage -->
+                <!-- <h1 class="webpage-name">Cordeiro Lab</h1> -->
+                
+                <a href="https://www.itqb.unl.pt/research/biological-chemistry/dynamic-structural-biology" target="_blank">
+                    <img src="/assets/logos/Lab_Logo_2.png" alt="Cordeiro Lab Logo" class="logo">
+                </a>
+                <!-- Hamburger Menu -->
+                <div class="hamburger" id="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+                <!-- Menu Links -->
+                <ul class="menu" id="menu">
+                    <li><a href="/index.html">Home</a></li>
+                    <li><a href="team.html">Team</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="Research_with_us.html">Team</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>    
+        </nav>
+    </header>
+    <main>    
+       <!-- Here are our amazing researchers  -->
+        <div id="container">Loading...</div>
+        <script>
+            fetch('/content/Research_with_us.md')
+                .then(res => res.text())
+                .then(text => {
+                    document.getElementById('container').innerHTML = marked.parse(text);
+                });
+        </script>        
+    </main>
+    <footer>
+        <nav>
+            <!-- Logo of the Institute -->
+            <a href="https://www.itqb.unl.pt" target="_blank">
+                <img src="/assets/logos/itqb_logo2.png" alt="Institute Logo" class="logo">
+            </a>
+            <!-- Menu Links -->
+            <ul class="menu1">
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        <nav>
+        <p>This website is open-source and available on <a href="https://github.com/CordeiroLab/CordeiroLab.github.io" target="_blank">GitHub</a>.</p>
+    </footer>
+</body>
+</html>
