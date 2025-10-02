@@ -49,7 +49,7 @@
        <!-- Here are our amazing researchers  -->
         <div id="container">Loading...</div>
         <script>
-            fetch('/content/Research_with_us.md')
+            fetch('/content/Join_us.md')
                 .then(res => res.text())
                 .then(text => {
                     document.getElementById('container').innerHTML = marked.parse(text);
