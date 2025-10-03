@@ -29,11 +29,15 @@
         box-shadow: 0 2px 12px rgba(0,0,0,0.10);
       }
       .carousel-images img {
-        width: 100%;
-        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 600px;
+        height: 400px;
+        object-fit: cover;
         display: none;
         transition: opacity 0.5s;
-      }
+       }   
       .carousel-images img.active {
         display: block;
         opacity: 1;
