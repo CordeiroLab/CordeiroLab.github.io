@@ -30,7 +30,7 @@
       }
       .carousel-images img {
         width: 100%;
-        height: 100%  
+        height: 100%;
         display: none;
         transition: opacity 0.5s;
       }
@@ -87,9 +87,15 @@
         <div id="container">Loading...</div>
         <script>
             fetch('/content/Join_us.md')
-                .then(res => res.text())
+                .then(res => {
+                    if (!res.ok) throw new Error('Markdown file not found');
+                    return res.text();
+                })
                 .then(text => {
                     document.getElementById('container').innerHTML = marked.parse(text);
+                })
+                .catch(err => {
+                    document.getElementById('container').innerHTML = "<p>Content could not be loaded.</p>";
                 });
         </script> 
         
@@ -156,7 +162,7 @@
                 <li><a href="Join_us.html">Join us</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
-        <nav>
+        </nav>
         <p>This website is open-source and available on <a href="https://github.com/CordeiroLab/CordeiroLab.github.io" target="_blank">GitHub</a>.</p>
     </footer>
 </body>
