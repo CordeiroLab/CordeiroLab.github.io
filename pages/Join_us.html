@@ -80,12 +80,24 @@
         </nav>
     </header>
     <main>
+        
+        <!-- Join Us -->
+        <div id="container">Loading...</div>
+        <script>
+            fetch('/content/Join_us.md')
+                .then(res => res.text())
+                .then(text => {
+                    document.getElementById('container').innerHTML = marked.parse(text);
+                });
+        </script> 
+        
         <!-- Carousel Start -->
         <div class="carousel">
           <div class="carousel-images">
             <img src="/assets/images/slider/image1.jpg" alt="Image 1">
             <img src="/assets/images/slider/image2.jpg" alt="Image 2">
             <img src="/assets/images/slider/image3.jpg" alt="Image 3">
+            <img src="/assets/images/slider/image3.jpg" alt="Image 4"> 
             <!-- Add more images as needed -->
           </div>
           <div class="carousel-dots"></div>
@@ -128,17 +140,7 @@
           resetInterval();
         });
         </script>
-        <!-- Carousel End -->
-
-        <!-- Here are our amazing researchers  -->
-        <div id="container">Loading...</div>
-        <script>
-            fetch('/content/Join_us.md')
-                .then(res => res.text())
-                .then(text => {
-                    document.getElementById('container').innerHTML = marked.parse(text);
-                });
-        </script>        
+        <!-- Carousel End -->       
     </main>
     <footer>
         <nav>
