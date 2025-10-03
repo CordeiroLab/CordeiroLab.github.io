@@ -22,15 +22,16 @@
       .carousel {
         position: relative;
         max-width: 600px;
-        max-height: 600px;
+        max-height: 400px;
         margin: 30px auto;
         overflow: hidden;
         border-radius: 12px;
-        box-shadow: 0 2px 12px rgba(0,0,0,0.10);
+        box-shadow: 0 5px 20px rgba(0,0,0,0.10);
       }
       .carousel-images img {
         width: 100%;
-        display: none;
+        height: 100%  
+        display: flex;
         transition: opacity 0.5s;
       }
       .carousel-images img.active {
