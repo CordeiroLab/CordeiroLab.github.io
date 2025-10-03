@@ -140,12 +140,20 @@
           }
 
           function resetInterval() {
-            clearInterval(interval);
+            if (interval) clearInterval(interval);
             interval = setInterval(nextImage, 2000);
           }
 
           showImage(0);
           resetInterval();
+
+          // Optional: pause on mouseover
+          document.querySelector('.carousel').addEventListener('mouseenter', () => {
+            clearInterval(interval);
+          });
+          document.querySelector('.carousel').addEventListener('mouseleave', () => {
+            resetInterval();
+          });
         });
         </script>
         <!-- Carousel End -->       
