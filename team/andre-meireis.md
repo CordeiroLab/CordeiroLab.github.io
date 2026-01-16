@@ -21,7 +21,7 @@ title: André Meireis
 - Teamwork and Collaboration
 
 ## Current position
-GIMM PhD student @ [https://gimm.pt/]
+GIMM PhD student @ [GIMM](https://gimm.pt/)
 
 ## Links
 >[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/andré-meireis-9606b3208/)
