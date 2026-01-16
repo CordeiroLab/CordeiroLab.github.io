@@ -24,7 +24,7 @@ title: André Meireis
 GIMM PhD student @ [)
 
 ## Links
->[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](linkedin.com/in/andré-meireis-9606b3208)
+>[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">][(https://www.linkedin.com/in/andré-meireis-9606b3208/)
 >[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/4414-EB75-DB7D)
 ---
 
