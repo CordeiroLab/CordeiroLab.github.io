@@ -20,6 +20,10 @@ title: Nuno P. Fernandes
 - Conformational Sampling
 - Open Science
 
+## Current Position
+
+PhD Student @[Lindorff-Larsen Group](https://www1.bio.ku.dk/english/research/bms/sbinlab/kll/)
+
 ## Links
 >[<img src="/assets/images/icons/github_icon.png" alt="linkedin" width="20" height="20">](https://github.com/npfernandes)
 >[<img src="/assets/images/icons/orcid_icon.png" alt="orcid" width="20" height="20">](https://orcid.org/0009-0003-4583-288X)
