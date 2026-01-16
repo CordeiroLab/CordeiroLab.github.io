@@ -34,18 +34,6 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('/assets/images/team/nuno.jpg');"></div>
-    <div class="flip-card-back">
-      <div class="name">Nuno Fernandes</div>
-      <div>MSc student</div>
-      <a href="/team/nuno-fernandes.html" target="_blank" class="btn">Read more</a>
-    </div>
-  </div>
-</label>
-
-<label class="flip-card">
-  <input type="checkbox" />
-  <div class="flip-card-inner">
     <div class="flip-card-front" style="background-image: url('/assets/images/team/carmen.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Carmen Olivença</div>
@@ -83,6 +71,18 @@
 
 ## Alumni
 <div class="team-grid">
+
+<label class="flip-card">
+  <input type="checkbox" />
+  <div class="flip-card-inner">
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/nuno.jpg');"></div>
+    <div class="flip-card-back">
+      <div class="name">Nuno Fernandes</div>
+      <div>MSc student</div>
+      <a href="/team/nuno-fernandes.html" target="_blank" class="btn">Read more</a>
+    </div>
+  </div>
+</label>
 
 <label class="flip-card">
   <input type="checkbox" />
