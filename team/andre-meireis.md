@@ -5,7 +5,7 @@ title: André Meireis
 
 # André Meireis
 
-> Post-master Researh Fellow
+> Post-master Research Fellow
 
 ![André Meireis](/assets/images/team/andre.jpg){: width="50%" style="border-radius: 10px;" }
 
