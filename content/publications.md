@@ -1,4 +1,7 @@
 > <img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="20" height="20"> **[more on Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)**
+## 2026
+**37.** Amara K, Fernandes C, Reis D, Silva D, Olivença C, Gonçalves B, Pais T, Martins ML, Hernandez G, Timóteo C, Gomes RA, Pina A, Serrano M, Cordeiro TN, Henriques AO * **Hierarchical cross-linking of a bacterial spore coat Hub protein.** *elife* 15:RP110712.[link](https://doi.org/10.7554/eLife.110712.1)
+
 ## 2025
 **36.** Santos CC, Schweizer N, Cairrão F, Ramirez J, Osinalde N, Yang M, Gaspar CJ, Rasheva VI, Trigo ML, Hensel Z, Adrain C, Cordeiro TN, Voigt F, Gameiro PA, Mayor U, Domingos PM.* (2025) **Fbxo42 promotes the degradation of Ataxin-2 granules to trigger terminal Xbp1 signaling.** *Nat. Commun.* 16:7523.[link](https://doi.org/10.1038/s41467-025-62417-2)
 
