@@ -5,24 +5,24 @@ title: Ruy Domingos
 
 # Ruy Domingos
 
-> Intern
+> Research Intern
 
-![André Meireis](/assets/images/team/andre.jpg){: width="50%" style="border-radius: 10px;" }
+![Ruy Domingos](/assets/images/team/ruy.jpg){: width="50%" style="border-radius: 10px;" }
 
 ## Biography
 
-> **Ruy Domingos** - I’m a molecular biologist with a passion for biomedicine and fascinated with scientific research, from the discovery of novel molecular mechanisms responsible for disease to translational research applied to these mechanisms in order to unravel new approaches to modern medicine. After a bachelor’s degree in Cell and Molecular Biology I pursued a master’s degree in Molecular Genetics and Biomedicine and graduated with a thesis in the field of nanomedicine where I researched about the possible therapeutical effects of gold nanoparticles in colorectal cancer. I joined the **DSB lab** in 2023 as research fellow to obtain hands on experience on the life of scientific research where I was able to develop and master a myriad of soft and hard skills. During this time, I was responsible for protein purification and through nuclear magnetic resonance and enzymatic assays I studied the interaction between an intrinsically disordered protein from *E.coli* and a human phosphatase in the context of host-pathogen interactions. PhD student since the start of 2026 in the 1st edition of the GIMM CAML Biology and Biomedicine PhD program.
+**Ruy M. Domingos** – I'm a Biochemist who is fascinated by structural biology and uncovering the molecular mechanisms by which fundamental cellular processes occur. I joined the DSB in 2026 as a research intern to gain experience in NMR (and SAXS), which I believe complements Cryo-EM by providing insight into disordered and highly ordered protein regions. With this array of structural biology techniques and experience, I aim to understand how RNA binding and liquid-liquid phase separation are coordinated with chaperoning during the biogenesis of membrane proteins.
 
 ## Research Interests
 
-- Cancer research
-- Nanomedicine
-- Microscopy
-- Teamwork and Collaboration
+- Structural Biology (Cryo-EM, Cryo-ET, NMR, SAXS)
+- Membrane Protein Biogenesis
+- Phase Separation (LLPS)
+- RNA homeostasisCancer research
 
 ## Links
->[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/andré-meireis-9606b3208/)
->[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/4414-EB75-DB7D)
+>[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/ruy-domingos-469b48269?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+>[<img src="/assets/images/icons/ciencia-vitae_icon.png" alt="gscholar" width="40" height="20">](https://www.cienciavitae.pt/portal/6114-496D-160C)
 
 ---
 
