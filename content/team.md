@@ -73,7 +73,7 @@
     <div class="flip-card-front" style="background-image: url('/assets/images/team/ruy.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Ruy Domingos</div>
-      <div>PostDoc </div>
+      <div>Research Intern </div>
       <a href="/team/ruy-domingos.html" target="_blank" class="btn">Read more</a>
     </div>
   </div>
