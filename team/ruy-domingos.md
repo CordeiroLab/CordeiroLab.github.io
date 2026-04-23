@@ -18,7 +18,7 @@ title: Ruy Domingos
 - Structural Biology (Cryo-EM, Cryo-ET, NMR, SAXS)
 - Membrane Protein Biogenesis
 - Phase Separation (LLPS)
-- RNA homeostasisCancer research
+- RNA homeostasis
 
 ## Links
 >[<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/ruy-domingos-469b48269?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
