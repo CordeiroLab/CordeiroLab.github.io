@@ -46,18 +46,6 @@
 <label class="flip-card">
   <input type="checkbox" />
   <div class="flip-card-inner">
-    <div class="flip-card-front" style="background-image: url('/assets/images/team/jose.jpg');"></div>
-    <div class="flip-card-back">
-      <div class="name">José Quintal</div>
-      <div>MSc student</div>
-      <a href="/team/jose-quintal.html" target="_blank" class="btn">Read more</a>
-    </div>
-  </div>
-</label>
-
-<label class="flip-card">
-  <input type="checkbox" />
-  <div class="flip-card-inner">
     <div class="flip-card-front" style="background-image: url('/assets/images/team/marco.jpg');"></div>
     <div class="flip-card-back">
       <div class="name">Marco Saraiva</div>
@@ -83,6 +71,18 @@
 
 ## Alumni
 <div class="team-grid">
+
+<label class="flip-card">
+  <input type="checkbox" />
+  <div class="flip-card-inner">
+    <div class="flip-card-front" style="background-image: url('/assets/images/team/jose.jpg');"></div>
+    <div class="flip-card-back">
+      <div class="name">José Quintal</div>
+      <div>MSc student</div>
+      <a href="/team/jose-quintal.html" target="_blank" class="btn">Read more</a>
+    </div>
+  </div>
+</label>
 
 <label class="flip-card">
   <input type="checkbox" />
