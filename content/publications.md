@@ -1,5 +1,13 @@
 > <img src="/assets/images/icons/gscholar_icon.svg" alt="gscholar" width="20" height="20"> **[more on Google Scholar](https://scholar.google.com/citations?user=ZKSPS14AAAAJ&hl=en)**
+> 
 ## 2026
+**38.** Fernandes NP, Gomes T, Cordeiro TN.* (2026) **Ensemblify: A User-friendly Platform for Generating and Analyzing Conformational Ensembles of Intrinsically Disordered Proteins and Regions.** *J Mol Biol.*14;169862.[link](https://doi.org/10.1016/j.jmb.2026.169862)
+<p align="center">
+  <a href="https://doi.org/10.1016/j.jmb.2026.169862" >
+  <img src="/assets/images/thumbnail/pub38-thumbnail.png" alt="ensemble" style="width: 90%; max-width: 100%; height: auto;" />
+  </a>  
+</p>
+
 **37.** Amara K, Fernandes C, Reis D, Silva D, Olivença C, Gonçalves B, Pais T, Martins ML, Hernandez G, Timóteo C, Gomes RA, Pina A, Serrano M, Cordeiro TN, Henriques AO * (2026) **Hierarchical cross-linking of a bacterial spore coat Hub protein.** *elife* 15:RP110712.[link](https://doi.org/10.7554/eLife.110712.1)
 
 ## 2025
