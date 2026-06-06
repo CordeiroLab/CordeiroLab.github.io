@@ -5,7 +5,7 @@ title: Tiago Cordeiro
 
 # Tiago Cordeiro
 
-> Principal Investigator (CEEC awardee)
+> Principal Investigator (FCT Tenure / CEEC awardee)
 
 ![Tiago Cordeiro](/assets/images/team/cordeiro.jpg){: width="50%" style="border-radius: 10px;" }
 
