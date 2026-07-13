@@ -20,7 +20,7 @@
   </a>  
 </p>
 
-**34.** Gomes T, Ruiz L, Martin-Malpartida P, Bernado P, Baptista AM, Macias MJ, Cordeiro TN* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* *in press* [link](https://doi.org/10.1016/j.jmb.2025.169103)
+**34.** Gomes T, Ruiz L, Martin-Malpartida P, Bernado P, Baptista AM, Macias MJ, Cordeiro TN* (2025) **KDSAXS: A Tool for Analyzing Binding Equilibria with Saxs Data Using Explicit Models.** *J. Mol. Biol.* 437(15), 169103 [link](https://doi.org/10.1016/j.jmb.2025.169103)
 <p align="center">
   <a href="https://doi.org/10.1016/j.jmb.2025.169103" >
   <img src="/assets/images/thumbnail/pub20-thumbnail.png" alt="KdSAXS" style="width: 90%; max-width: 100%; height: auto;" />
