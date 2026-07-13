@@ -15,10 +15,9 @@ title: Aamina Sahar
 
 ## Research Interests
 
- • Biomolecular Systems for Metabolic Disease
- • Biosensing and Therapeutic Biomolecular Platforms
- • Amino Acid Biology and Metabolism
- • RNA Biology and Gene Regulation
+ - Biomolecular Systems for Metabolic Disease
+ - Biosensing and Therapeutic Biomolecular Platforms
+ - RNA Biology and Gene Regulation
 
 ## Links
 > [<img src="/assets/images/icons/linkedin_icon.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/aamina-sahar-794b31198/)
