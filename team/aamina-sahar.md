@@ -5,7 +5,7 @@ title: Aamina Sahar
 
 # Aamina Sahar
 
-> Bridge Fellow [<img src="/assets/images/bridge.jpg" alt="molbios" width="40" height="40">](https://www.itqb.unl.pt/education/bridgefellowships)
+> Bridge Fellow [<img src="/assets/images/bridge.png" alt="molbios" width="40" height="40">](https://www.itqb.unl.pt/education/bridgefellowships)
 
 ![Aamina Sahar](/assets/images/team/aamina.jpg){: width="50%" style="border-radius: 10px;" }
 
