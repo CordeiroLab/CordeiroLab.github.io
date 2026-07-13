@@ -7,7 +7,7 @@ title: Tiago Cordeiro
 
 > Principal Investigator (FCT Tenure / CEEC awardee)
 
-![Tiago Cordeiro](/assets/images/team/cordeiro.jpg){: width="50%" style="border-radius: 10px;" }
+![Tiago Cordeiro](/assets/images/team/cordeiro_2.jpg){: width="50%" style="border-radius: 10px;" }
 
 ## Biography
 >I am a scientist passionate about understanding how intrinsically disordered proteins (IDPs) and phase separation organize **biomolecular processes**, contribute to **pathogen survival**, and drive **biotechnological innovation**. I lead the Dynamic Structural Biology Lab at ITQB-NOVA, where we combine advanced biophysical techniques—mainly **SAXS** and **NMR**—with **computational modeling** to investigate the structural dynamics of IDPs and their assemblies.
