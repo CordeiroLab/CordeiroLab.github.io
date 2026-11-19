@@ -2,6 +2,8 @@
 > 
 ## 2026
 
+**40.** Monzon, A. M. et al. (2026) **PED in 2027: integrating experimental and predicted protein conformational ensembles at scale**. *Nucleic Acids Res.*, gkag1048 [link](https://doi.org/10.1093/nar/gkag1048)
+
 **39.** Sarker, G., Haberman, E., Chandran, A. et al. (2026) **The perineurium integrates leptin with its sympathetic outflow to protect against obesity** *Nat Metab* 14;169862.[link](https://doi.org/10.1038/s42255-026-01555-3)
 
 **38.** Fernandes NP, Gomes T, Cordeiro TN.* (2026) **Ensemblify: A User-friendly Platform for Generating and Analyzing Conformational Ensembles of Intrinsically Disordered Proteins and Regions.** *J Mol Biol.* 14;169862.[link](https://doi.org/10.1016/j.jmb.2026.169862)
